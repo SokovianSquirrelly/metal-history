@@ -5,7 +5,7 @@ let memeSources = [
 
 function displayNewMeme()
 {
-    let memeNumber = Math.floor(Math.random(1));
+    let memeNumber = Math.floor(Math.random(memeSources.length));
     let memePath = memeSources[memeNumber];
     document.getElementById("meme-image").setAttribute("src", memePath);
 }
