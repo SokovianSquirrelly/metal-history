@@ -15,6 +15,13 @@
   background-color: #72726e;
   border: 10px solid #8e1a23;
   border-radius: 5%;
+  transition: transform .5s;
+}
+
+.era-link:hover
+{
+  opacity: .6;
+  transform: scale(0.9);
 }
 
 .era-link h3 {
