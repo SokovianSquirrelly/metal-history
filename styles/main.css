@@ -1,14 +1,51 @@
-.banner
-{
-    max-width: 100%;
+@import url("https://fonts.googleapis.com/css?family=IM+Fell+French+Canon+SC|Lato");
+@import url("https://fonts.googleapis.com/css2?family=Metal+Mania&family=PT+Sans&display=swap");
+
+.banner {
+  max-width: 100%;
 }
 
-.link-image
-{
-    max-width: 20%;
+.link-image {
+  max-width: 20%;
 }
 
-.logo-image
-{
-    max-width: 150px;
+.logo-image {
+  max-width: 150px;
+  border-radius: 50%;
+  padding: 10px;
+}
+
+h1 {
+  font-family: "Metal Mania", cursive;
+}
+
+h3 {
+  font-family: "Metal Mania", cursive;
+}
+
+header {
+  background-color: #8e1a23;
+  display: grid;
+  grid-template-columns: 150px auto;
+}
+
+nav {
+  display: flex;
+  justify-content: space-around;
+}
+
+nav a {
+  font-size: 25px;
+  text-align: center;
+  color: white;
+  text-decoration: none;
+  font-family: "Metal Mania", cursive;
+  margin: 50px 0;
+  padding: 20px;
+  border-radius: 10%;
+}
+
+nav a:hover {
+  background-color: #72726e;
+  color: #171212;
 }
