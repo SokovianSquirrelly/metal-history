@@ -1,8 +1,7 @@
 @import url("https://fonts.googleapis.com/css?family=IM+Fell+French+Canon+SC|Lato");
 @import url("https://fonts.googleapis.com/css2?family=Metal+Mania&family=PT+Sans&display=swap");
 
-#home-nav
-{
+#home-nav {
   display: grid;
   grid-template-columns: 1fr 1fr 1fr;
 }
@@ -11,23 +10,20 @@
   max-width: 100%;
 }
 
-.era-link
-{
+.era-link {
   margin: 20px;
   background-color: #72726e;
   border: 10px solid #8e1a23;
   border-radius: 5%;
 }
 
-.era-link h3
-{
+.era-link h3 {
   text-align: center;
-  color:#171212;
+  color: #171212;
   font-size: 30px;
 }
 
-.era-link img
-{
+.era-link img {
   display: block;
   border: 5px solid #171212;
   margin-left: auto;
@@ -36,20 +32,55 @@
   width: 90%;
 }
 
+.footer-nav
+{
+  font-size: 25px;
+  text-align: center;
+  color: white;
+  margin: 20px 0;
+  padding: 20px;
+  border-radius: 10%;
+}
+
+.footer-nav:hover
+{
+  background-color: #72726e;
+  color: #171212;
+}
+
 .logo-image {
   max-width: 150px;
   border-radius: 50%;
   padding: 10px;
 }
 
-a
-{
+.social img {
+  border-radius: 50%;
+}
+
+a {
   text-decoration: none;
 }
 
-footer
+body {
+  background-color: #171212;
+}
+
+footer {
+  background-color: #8e1a23;
+  padding: 25px 50px;
+  margin-top: 100px;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+footer a, footer p
 {
-  background-color: #8e1a23
+  font-family: "PT Sans", sans-serif;
+  color: white;
+  font-size: 25px;
+  font-family: "Metal Mania", cursive;
 }
 
 h1 {
@@ -61,6 +92,7 @@ h1 {
 
 h3 {
   font-family: "Metal Mania", cursive;
+  color: white;
 }
 
 header {
@@ -69,15 +101,19 @@ header {
   grid-template-columns: 150px auto;
 }
 
-html, body
-{
+html,
+body {
   margin: 0;
   padding: 0;
 }
 
-main
-{
-  background-color:#171212;
+main {
+  background-color: #171212;
+}
+
+main p {
+  margin-left: 10%;
+  margin-right: 30%;
 }
 
 nav {
@@ -102,9 +138,7 @@ nav a:hover {
 
 p
 {
-  color: white;
   font-family: "PT Sans", sans-serif;
-  margin-left: 10%;
-  margin-right: 30%;
-  font-size: 20px;
+  color: white;
+  font-size: 25px;
 }
