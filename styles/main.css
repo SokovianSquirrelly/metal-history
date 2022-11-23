@@ -1,12 +1,39 @@
 @import url("https://fonts.googleapis.com/css?family=IM+Fell+French+Canon+SC|Lato");
 @import url("https://fonts.googleapis.com/css2?family=Metal+Mania&family=PT+Sans&display=swap");
 
+#home-nav
+{
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+}
+
 .banner {
   max-width: 100%;
 }
 
-.link-image {
-  max-width: 20%;
+.era-link
+{
+  margin: 20px;
+  background-color: #72726e;
+  border: 10px solid #8e1a23;
+  border-radius: 5%;
+}
+
+.era-link h3
+{
+  text-align: center;
+  color:#171212;
+  font-size: 30px;
+}
+
+.era-link img
+{
+  display: block;
+  border: 5px solid #171212;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 15px;
+  width: 90%;
 }
 
 .logo-image {
@@ -15,8 +42,21 @@
   padding: 10px;
 }
 
+a
+{
+  text-decoration: none;
+}
+
+footer
+{
+  background-color: #8e1a23
+}
+
 h1 {
   font-family: "Metal Mania", cursive;
+  text-align: center;
+  font-size: 60px;
+  color: white;
 }
 
 h3 {
@@ -29,6 +69,17 @@ header {
   grid-template-columns: 150px auto;
 }
 
+html, body
+{
+  margin: 0;
+  padding: 0;
+}
+
+main
+{
+  background-color:#171212;
+}
+
 nav {
   display: flex;
   justify-content: space-around;
@@ -38,7 +89,6 @@ nav a {
   font-size: 25px;
   text-align: center;
   color: white;
-  text-decoration: none;
   font-family: "Metal Mania", cursive;
   margin: 50px 0;
   padding: 20px;
@@ -48,4 +98,13 @@ nav a {
 nav a:hover {
   background-color: #72726e;
   color: #171212;
+}
+
+p
+{
+  color: white;
+  font-family: "PT Sans", sans-serif;
+  margin-left: 10%;
+  margin-right: 30%;
+  font-size: 20px;
 }
