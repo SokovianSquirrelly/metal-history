@@ -61,6 +61,29 @@
   padding: 10px;
 }
 
+.music-example{
+  background-color: #72726e;
+  margin: 20px auto;
+  display: block;
+  width: 400px;
+  padding: 10px;
+  border: 10px solid #8e1a23;
+  border-radius: 5%;
+}
+
+.music-example div{
+  display: block;
+  width: 295px;
+  margin: 0 auto;
+}
+
+.music-example h4{
+  font-family: "Metal Mania", cursive;
+  color: #171212;
+  text-align: center;
+  font-size: 25px;
+}
+
 .social img {
   border-radius: 50%;
 }
@@ -120,7 +143,7 @@ main {
 
 main p {
   margin-left: 10%;
-  margin-right: 30%;
+  margin-right: 20%;
 }
 
 nav {

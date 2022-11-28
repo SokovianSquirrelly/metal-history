@@ -1,11 +1,15 @@
 let memeSources = [
     "memes/hvyMeme_1.jpg",
-    "prgMeme_1.JPG"
+    "memes/prgMeme_1.JPG"
 ];
+
+
 
 function displayNewMeme()
 {
-    let memeNumber = Math.floor(Math.random(memeSources.length));
+    let min = Math.ceil(0);
+    let max = Math.floor(memeSources.length);
+    let memeNumber = Math.floor(Math.random() * (max - min) + min);
     let memePath = memeSources[memeNumber];
     document.getElementById("meme-image").setAttribute("src", memePath);
 }
