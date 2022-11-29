@@ -41,6 +41,36 @@
   max-width: 100%;
 }
 
+.body-nav
+{
+  display: grid;
+  grid-template-columns: 1fr 1fr 4fr 1fr 1fr;
+}
+
+.body-nav a {
+  font-size: 30px;
+  text-align: center;
+  color: white;
+  font-family: "Metal Mania", cursive;
+  margin: 50px 0;
+  padding: 20px;
+  border-radius: 10%;
+}
+
+.body-nav a:hover {
+  background-color: #8e1a23;
+}
+
+.prev-button
+{
+  grid-column: 2/3;
+}
+
+.next-button
+{
+  grid-column: 4/5;
+}
+
 .era-link {
   margin: 20px;
   background-color: #72726e;
