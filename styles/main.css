@@ -1,9 +1,40 @@
 @import url("https://fonts.googleapis.com/css?family=IM+Fell+French+Canon+SC|Lato");
 @import url("https://fonts.googleapis.com/css2?family=Metal+Mania&family=PT+Sans&display=swap");
 
+#fav-band-body {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+}
+
 #home-nav {
   display: grid;
   grid-template-columns: 1fr 1fr 1fr;
+}
+
+.band-entry{
+  background-color: #72726e;
+  margin: 20px;
+  text-align: center;
+  border: 10px solid #8e1a23;
+  border-radius: 5%;
+}
+
+.band-entry h3 {
+  font-size: 25px;
+}
+
+.band-entry img{
+  display: block;
+  border: 5px solid #171212;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 15px;
+  width: 90%;
+}
+
+.band-entry p{
+  margin: 20px;
+  font-size: 20px;
 }
 
 .banner {
