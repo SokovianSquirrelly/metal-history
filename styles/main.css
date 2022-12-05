@@ -11,6 +11,34 @@
   grid-template-columns: 1fr 1fr 1fr;
 }
 
+#meme-button {
+  display: block;
+  max-width: 150px;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 15px;
+  margin-top: 10px;
+  border-radius: 25%;
+}
+
+#meme-button h2 {
+  color: white;
+  font-family: "Metal Mania", cursive;
+  text-align: center;
+}
+
+#meme-button:hover {
+  background-color: #8e1a23;
+}
+
+#meme-image {
+  display: block;
+  max-width: 60%;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 20px;
+}
+
 .band-entry{
   background-color: #72726e;
   margin: 20px;
