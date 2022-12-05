@@ -122,6 +122,23 @@
   padding: 10px;
 }
 
+.misc-pics{
+  display: block;
+  max-width: 60%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.misc-pics h5{
+  color: white;
+  font-family: "Metal Mania", cursive;
+  font-size: 15px;
+}
+
+.misc-pics img{
+  max-width: 100%;
+}
+
 .music-example{
   background-color: #72726e;
   margin: 20px auto;
@@ -184,6 +201,8 @@ h1 {
 h3 {
   font-family: "Metal Mania", cursive;
   color: white;
+  font-size: 30px;
+  margin-left: 10%;
 }
 
 header {
