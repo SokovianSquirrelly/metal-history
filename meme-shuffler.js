@@ -1,8 +1,8 @@
 let memeSources = [
     "memes/hvyMeme_1.jpg",
     "memes/prgMeme_1.JPG",
-    "memes/hvyMeme_2.jpg",
-    "memes/gshsmk.jpg"
+    "memes/hvyMeme_2.JPG",
+    "memes/gshsmk.JPG"
 ];
 
 
