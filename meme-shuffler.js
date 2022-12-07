@@ -2,10 +2,11 @@ let memeSources = [
     "memes/hvyMeme_1.jpg",
     "memes/prgMeme_1.JPG",
     "memes/hvyMeme_2.JPG",
-    "memes/gshsmk.JPG"
+    "memes/hvyMeme_3.JPG",
+    "memes/gshsmk.JPG",
+    "memes/kornMeme.jpg",
+    "memes/rammsteinMeme.JPG"
 ];
-
-
 
 function displayNewMeme()
 {
