@@ -13,23 +13,24 @@
 
 #meme-button {
   display: block;
-  max-width: 150px;
   margin-left: auto;
   margin-right: auto;
-  padding: 15px;
+  padding: 15px 40px;
   margin-top: 10px;
   border-radius: 25%;
-}
-
-#meme-button h2 {
+  background-color: #8e1a23;
   color: white;
   font-family: "Metal Mania", cursive;
   text-align: center;
+  font-size: 2em;
 }
 
 #meme-button:hover {
-  background-color: #8e1a23;
+  background-color: #72726e;
+  color: #171212;
 }
+
+
 
 #meme-image {
   display: block;
@@ -40,7 +41,7 @@
   margin-top: 20px;
 }
 
-.band-entry{
+.band-entry {
   background-color: #72726e;
   margin: 20px;
   text-align: center;
@@ -53,7 +54,7 @@
   margin-left: 0px;
 }
 
-.band-entry img{
+.band-entry img {
   display: block;
   border: 5px solid #171212;
   margin-left: auto;
@@ -62,7 +63,7 @@
   width: 90%;
 }
 
-.band-entry p{
+.band-entry p {
   margin: 20px;
   font-size: 20px;
 }
@@ -71,8 +72,7 @@
   max-width: 100%;
 }
 
-.body-nav
-{
+.body-nav {
   display: grid;
   grid-template-columns: 1fr 1fr 4fr 1fr 1fr;
 }
@@ -91,13 +91,11 @@
   background-color: #8e1a23;
 }
 
-.prev-button
-{
+.prev-button {
   grid-column: 2/3;
 }
 
-.next-button
-{
+.next-button {
   grid-column: 4/5;
 }
 
@@ -106,12 +104,11 @@
   background-color: #72726e;
   border: 10px solid #8e1a23;
   border-radius: 5%;
-  transition: transform .5s;
+  transition: transform 0.5s;
 }
 
-.era-link:hover
-{
-  opacity: .6;
+.era-link:hover {
+  opacity: 0.6;
   transform: scale(0.9);
 }
 
@@ -131,8 +128,7 @@
   width: 90%;
 }
 
-.footer-nav
-{
+.footer-nav {
   font-size: 25px;
   text-align: center;
   color: white;
@@ -141,8 +137,7 @@
   border-radius: 10%;
 }
 
-.footer-nav:hover
-{
+.footer-nav:hover {
   background-color: #72726e;
   color: #171212;
 }
@@ -153,24 +148,24 @@
   padding: 10px;
 }
 
-.misc-pics{
+.misc-pics {
   display: block;
   max-width: 60%;
   margin-left: auto;
   margin-right: auto;
 }
 
-.misc-pics h5{
+.misc-pics h5 {
   color: white;
   font-family: "Metal Mania", cursive;
   font-size: 15px;
 }
 
-.misc-pics img{
+.misc-pics img {
   max-width: 100%;
 }
 
-.music-example{
+.music-example {
   background-color: #72726e;
   margin: 20px auto;
   display: block;
@@ -180,13 +175,13 @@
   border-radius: 5%;
 }
 
-.music-example div{
+.music-example div {
   display: block;
   width: 295px;
   margin: 0 auto;
 }
 
-.music-example h4{
+.music-example h4 {
   font-family: "Metal Mania", cursive;
   color: #171212;
   text-align: center;
@@ -208,14 +203,14 @@ body {
 footer {
   background-color: #8e1a23;
   padding: 25px 50px;
-  margin-top: 100px;
+  margin-top: 15px;
   display: flex;
   justify-content: space-around;
   align-items: center;
 }
 
-footer a, footer p
-{
+footer a,
+footer p {
   font-family: "PT Sans", sans-serif;
   color: white;
   font-size: 25px;
@@ -253,8 +248,7 @@ main {
 }
 
 main p {
-  margin-left: 10%;
-  margin-right: 20%;
+  margin: 0.8em 10%;
 }
 
 nav {
@@ -277,9 +271,67 @@ nav a:hover {
   color: #171212;
 }
 
-p
-{
+p {
   font-family: "PT Sans", sans-serif;
   color: white;
   font-size: 25px;
+}
+
+@media only screen and (max-width: 600px) {
+  /* Home Page */
+  #home-nav {
+    display: block;
+  }
+
+  .era-link h3 {
+    padding: 0 20px;
+  }
+
+  .footer-nav {
+    margin: 0 auto;
+  }
+
+  nav {
+    flex-direction: column;
+  }
+
+  nav a {
+    margin: 0;
+  }
+
+  .logo-image {
+    margin: 0 auto;
+    display: block;
+  }
+
+  header {
+    display: block;
+    padding-top: 20px;
+  }
+
+  footer {
+    flex-direction: column;
+  }
+
+  footer p {
+    margin: 0;
+    text-align: center;
+  }
+
+  /* Eras */
+  .music-example {
+    width: 80%;
+    margin: 15px auto;
+  }
+
+  /* Memes */
+  #meme-image
+  {
+    max-width: 90%;
+  }
+
+  /* Fav Band */
+  #fav-band-body {
+    display: block;
+  }
 }
