@@ -52,7 +52,8 @@
   margin-left: 0px;
 }
 
-.band-entry img {
+.band-entry img,
+.band-entry video {
   display: block;
   border: 5px solid #171212;
   margin-left: auto;
@@ -323,8 +324,7 @@ p {
   }
 
   /* Memes */
-  #meme-image
-  {
+  #meme-image {
     max-width: 90%;
   }
 
