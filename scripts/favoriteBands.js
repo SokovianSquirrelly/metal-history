@@ -24,9 +24,9 @@ function displayData(data) {
 
     if (band.bandName == "Rick Astley") {
       const bandVideo = document.createElement("video");
-      bandVideo.controls = true;
       bandVideo.id = "rickroll";
-      //bandVideo.setAttribute("loading", "lazy");
+      bandVideo.playsInline = true;
+      bandVideo.muted = "muted";
       bandVideo.autoplay = true;
 
       const source = document.createElement("source");
@@ -69,6 +69,7 @@ function rickrollUser() {
     videoClientRect <= windowHeight - videoHeight * 0.5 &&
     videoClientRect >= 0 - videoHeight * 0.5
   ) {
+    videoEl.muted = false;
     videoEl.play();
   } else {
     videoEl.pause();
