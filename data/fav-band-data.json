@@ -42,6 +42,12 @@
         "joke" : "You took a DNA test to see if you have any viking ancestry."
     },
     {
+        "bandName" : "Amy Winehouse",
+        "imageSource" : "images/amy-winehouse.webp",
+        "imageAlt" : "Retrieved from https://www.illamasqua.com/blog/amy-winehouse-collaboration/",
+        "joke" : "You're an alcoholic."
+      },
+    {
         "bandName" : "Animals as Leaders",
         "imageSource" : "images/animals-as-leaders.webp",
         "imageAlt" : "Retrieved from https://open.spotify.com/artist/65C6Unk7nhg2aCnVuAPMo8",
@@ -83,6 +89,12 @@
         "imageAlt" : "Retrieved from https://www.facebook.com/photo/?fbid=678614316959096&set=a.257670969053435",
         "joke" : "Remember when Danny was a little scene kid?"
     },
+    {
+        "bandName" : "Atreyu",
+        "imageSource" : "images/atreyu.webp",
+        "imageAlt" : "Retrieved from https://idobi.com/news/atreyus-generation-video-is-one-big-game-of-spot-the-musician/",
+        "joke" : "You still have a lip ring from when you were 15."
+      },
     {
         "bandName" : "Avenged Sevenfold",
         "imageSource" : "images/a7x.webp",
@@ -377,6 +389,12 @@
         "joke" : "You miss the '90s and Nirvana, but you're glad Dave Grohl is still around and turned out to be a really nice guy."
     },
     {
+        "bandName" : "Godsmack",
+        "imageSource" : "images/godsmack.webp",
+        "imageAlt" : "Retrieved from https://www.iheart.com/artist/godsmack-39481/",
+        "joke" : "You have an eyebrow piercing."
+      },
+    {
         "bandName" : "George Strait",
         "imageSource" : "images/george-strait.webp",
         "imageAlt" : "Retrieved from https://www.countrymusichalloffame.org/hall-of-fame/george-strait",
@@ -468,8 +486,8 @@
     },
     {
         "bandName" : "Insane Clown Posse",
-        "imageSource" : "",
-        "imageAlt" : "TBD",
+        "imageSource" : "images/insane-clown-posse.webp",
+        "imageAlt" : "Retrieved from https://www.houstonchronicle.com/local/article/Attention-Juggalos-Insane-Clown-Posse-coming-to-13253720.php",
         "joke" : "You love to gather with fellow juggalos and run around naked and spray each other with soda."
       },
     {
@@ -498,8 +516,8 @@
     },
     {
         "bandName" : "Journey",
-        "imageSource" : "",
-        "imageAlt" : "TBD",
+        "imageSource" : "images/journey.webp",
+        "imageAlt" : "Retrieved from https://www.azcentral.com/story/entertainment/music/2016/05/09/journey-interview-neal-schon/84062372/",
         "joke" : "You're so pasty white, they decided to give mayonnaise the n-word pass."
       },
     {
@@ -546,8 +564,8 @@
     },
     {
         "bandName" : "King 810",
-        "imageSource" : "",
-        "imageAlt" : "TBD",
+        "imageSource" : "images/king-810.webp",
+        "imageAlt" : "Retrieved from https://www.last.fm/music/King+810",
         "joke" : "You're a blue-collar worker from the Midwest."
       },
     {
@@ -628,12 +646,6 @@
         "imageAlt" : "Retrieved from https://www.facebook.com/photo/?fbid=541242904025799&set=a.268630601287032",
         "joke" : "It took a while, but you can finally distinguish the difference between Will Ramos and a Nazgûl."
     },
-    {
-        "bandName" : "Lostprophets",
-        "imageSource" : "",
-        "imageAlt" : "TBD",
-        "joke" : "You still haven't heard why Ian's in prison, have you? Because if you had, this would not be your favorite band."
-      },
     {
         "bandName" : "Louis Armstrong",
         "imageSource" : "images/louis-armstrong.webp",
@@ -1019,6 +1031,12 @@
         "joke" : "You love Bob Ross."
     },
     {
+        "bandName" : "Simple Plan",
+        "imageSource" : "images/simple-plan.webp",
+        "imageAlt" : "Retrieved from https://americansongwriter.com/simple-plan-20-years-down-and-still-going-strong/",
+        "joke" : "You're one of those \"Disney adults.\""
+      },
+    {
         "bandName" : "Skillet",
         "imageSource" : "images/skillet.webp",
         "imageAlt" : "Retrieved from https://www.facebook.com/photo/?fbid=472781060875642&set=a.273526994134384",
@@ -1042,6 +1060,12 @@
         "imageAlt" : "Retrieved from https://www.latimes.com/entertainment-arts/music/story/2019-11-26/slayer-heavy-metal-farewell-last-shows-forum",
         "joke" : "You want to listen to heavy music but death metal is too much for you."
     },
+    {
+        "bandName" : "Sleep Token",
+        "imageSource" : "images/sleep-token.webp",
+        "imageAlt" : "Retrieved from https://www.noecho.net/features/sleep-token-this-place-will-become-your-tomb-in-context",
+        "joke" : "I get there are a lot of things to like about this band, but the way you talk about it is really pretentious."
+      },
     {
         "bandName" : "Sleeping With Sirens",
         "imageSource" : "images/sleeping-with-sirens.webp",

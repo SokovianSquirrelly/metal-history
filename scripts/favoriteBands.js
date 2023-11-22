@@ -6,7 +6,6 @@ async function getBandData() {
 
   if (response.ok) {
     const data = await response.json();
-    //console.table(data);
     displayData(data);
   }
 }
