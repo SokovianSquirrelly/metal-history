@@ -1,5 +1,5 @@
 let memeSources = [
-  "memes/5fdpMeme.JPG",
+  "memes/5fdpMeme.jpg",
   "memes/abbathMeme.JPG",
   "memes/acdcMeme.JPG",
   "memes/amonAmarthMeme.JPG",
@@ -11,7 +11,7 @@ let memeSources = [
   "memes/blkMeme_5.JPG",
   "memes/blkMeme_6.JPG",
   "memes/blueOysterCultMeme.JPG",
-  "memes/cannibalCorpseMeme.JPG",
+  "memes/cannibalCorpseMeme.jpg",
   "memes/cntryMeme.JPG",
   "memes/deadKennedysMeme.JPG",
   "memes/disturbedMeme.JPG",
@@ -20,7 +20,7 @@ let memeSources = [
   "memes/dthMeme_1.JPG",
   "memes/dthMeme_2.JPG",
   "memes/eminemMeme.JPG",
-  "memes/glam_v_grunge.JPG",
+  "memes/glam_v_grunge.jpg",
   "memes/godsmackMeme_1.JPG",
   "memes/godsmackMeme_2.jpg",
   "memes/gretaVanFleet_v_ledZeppelin.JPG",
@@ -44,7 +44,7 @@ let memeSources = [
   "memes/hvyMeme_17.JPG",
   "memes/hvyMeme_18.JPG",
   "memes/hvyMeme_19.JPG",
-  "memes/hvyMeme_20.JPG",
+  "memes/hvyMeme_20.jpg",
   "memes/iPrevail_v_breakingBenjamin.JPG",
   "memes/killersMeme.JPG",
   "memes/kornMeme_1.jpg",
@@ -55,14 +55,14 @@ let memeSources = [
   "memes/lornaShoreMeme_1.jpg",
   "memes/lornaShoreMeme_2.JPG",
   "memes/mcoreMeme_1.JPG",
-  "memes/mcoreMeme_2.JPG",
+  "memes/mcoreMeme_2.jpg",
   "memes/metallica_v_megadeth.JPG",
   "memes/metallicaMeme_1.JPG",
   "memes/metallicaMeme_2.JPG",
   "memes/metallicaMeme_3.JPG",
   "memes/metallicaMeme_4.JPG",
   "memes/metallicaMeme_5.JPG",
-  "memes/metallicaMeme_6.JPG",
+  "memes/metallicaMeme_6.jpg",
   "memes/misfitsMeme.JPG",
   "memes/morbidAngelMeme.JPG",
   "memes/nickelbackMeme.JPG",
@@ -83,10 +83,10 @@ let memeSources = [
   "memes/slayerMeme_1.JPG",
   "memes/slipknotMeme_1.JPG",
   "memes/slipknotMeme_2.JPG",
-  "memes/soad_v_greenDay.JPG",
+  "memes/soad_v_greenDay.jpg",
   "memes/warrantMeme.JPG",
   "memes/whitechapelMeme_1.JPG",
-  "memes/whitechapelMeme_2.JPG"
+  "memes/whitechapelMeme_2.jpg"
 ];
 
 let count = 0;
