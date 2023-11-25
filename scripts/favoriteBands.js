@@ -26,6 +26,7 @@ function displayData(data) {
       bandVideo.id = "rickroll";
       bandVideo.playsInline = true;
       bandVideo.muted = "muted";
+      bandVideo.loop = true;
       bandVideo.autoplay = true;
 
       const source = document.createElement("source");

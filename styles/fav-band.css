@@ -1,0 +1,38 @@
+#fav-band-body {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+}
+
+.band-entry {
+  background-color: #72726e;
+  margin: 20px;
+  text-align: center;
+  border: 10px solid #8e1a23;
+  border-radius: 5%;
+}
+
+.band-entry h3 {
+  font-size: 25px;
+  margin-left: 0px;
+}
+
+.band-entry img,
+.band-entry video {
+  display: block;
+  border: 5px solid #171212;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 15px;
+  width: 90%;
+}
+
+.band-entry p {
+  margin: 20px;
+  font-size: 20px;
+}
+
+@media only screen and (max-width: 600px) {
+  #fav-band-body {
+    display: block;
+  }
+}

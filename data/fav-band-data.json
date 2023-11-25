@@ -72,6 +72,12 @@
         "joke" : "You understand why Angela left, but you also needlessly criticize Alissa for the stupidest reasons."
     },
     {
+        "bandName" : "Architects",
+        "imageSource" : "images/architects.webp",
+        "imageAlt" : "Retrieved from https://www.theguardian.com/music/2018/nov/14/architects-band-interview-dan-searle-tom-searle-cancer-new-album-holy-hell",
+        "joke" : "You're a guitarist that ripped off the Doomsday riff.  Hey, don't act like it's not true."
+    },
+    {
         "bandName" : "Ariana Grande",
         "imageSource" : "images/ariana-grande.webp",
         "imageAlt" : "Retrieved from https://www.imdb.com/name/nm3812858/",
@@ -167,6 +173,12 @@
         "imageAlt" : "Retrieved from https://en.wikipedia.org/wiki/Billy_Joel",
         "joke" : "You took piano lessons in elementary school."
     },
+    {
+        "bandName" : "Black Flag",
+        "imageSource" : "images/black-flag.webp",
+        "imageAlt" : "Retrieved from https://www.wsj.com/articles/for-sale-black-flags-logo-the-most-iconic-symbol-of-hardcore-punk-1475770282",
+        "joke" : "I'm sorry, but Henry Rollings is the hardcore scene's Elon Musk, and not in a good way."
+      },
     {
         "bandName" : "Black Sabbath",
         "imageSource" : "images/black-sabbath.webp",
@@ -665,6 +677,12 @@
         "joke" : "You were the only baritone sax player in your high school and gosh dang it you are so proud of it!"
     },
     {
+        "bandName" : "Luke Bryan",
+        "imageSource" : "images/luke-bryan.webp",
+        "imageAlt" : "Retrieved from https://www.latimes.com/entertainment-arts/music/story/2020-08-06/luke-bryan-american-idol-born-here-live-here-die-here",
+        "joke" : "Calm down ladies, he's already married."
+    },
+    {
         "bandName" : "Lynyrd Skynyrd",
         "imageSource" : "images/lynyrd-skynyrd.webp",
         "imageAlt" : "Retrieved from https://open.spotify.com/artist/4MVyzYMgTwdP7Z49wAZHx0",
@@ -790,6 +808,12 @@
         "imageAlt" : "Retrieved from https://www.romaniajournal.ro/spare-time/nightwish-wont-call-off-gig-in-bucharest-posting-controversial-message-on-facebook/",
         "joke" : "You love metal, but you were also an orchestra student and/or a choir student in high school. You also miss having Tarja as a vocalist."
     },
+    {
+        "bandName" : "Nik Nocturnal",
+        "imageSource" : "images/nik-nocturnal.webp",
+        "imageAlt" : "Retrieved from https://www.reddit.com/r/AltLadyboners/comments/w6aa2q/good_ol_nik_nocturnal/",
+        "joke" : "You're just here for the memes."
+      },
     {
         "bandName" : "Nine Inch Nails",
         "imageSource" : "images/nine-inch-nails.webp",
@@ -1240,6 +1264,12 @@
         "imageAlt" : "Retrieved from https://www.metalblade.com/us/news/whitechapel-to-join-trivium-on-north-american-fall-tour/",
         "joke" : "You're one of maybe three or four people who decided to grow out of their scene/emo phase."
     },
+    {
+        "bandName" : "Wind Rose",
+        "imageSource" : "images/wind-rose.webp",
+        "imageAlt" : "Retrieved from https://www.theaudiodb.com/artist/146595",
+        "joke" : "J.R.R. Tolkien is your god."
+      },
     {
         "bandName" : "ZZ Top",
         "imageSource" : "images/zz-top.webp",

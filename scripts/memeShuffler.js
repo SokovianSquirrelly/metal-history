@@ -17,6 +17,7 @@ let memeSources = [
   "memes/disturbedMeme.JPG",
   "memes/dthcrMeme_1.JPG",
   "memes/dthcrMeme_2.JPG",
+  "memes/dthcrMeme_3.JPG",
   "memes/dthMeme_1.JPG",
   "memes/dthMeme_2.JPG",
   "memes/eminemMeme.JPG",
@@ -63,9 +64,11 @@ let memeSources = [
   "memes/metallicaMeme_4.JPG",
   "memes/metallicaMeme_5.JPG",
   "memes/metallicaMeme_6.jpg",
+  "memes/metallicaMeme_7.JPG",
   "memes/misfitsMeme.JPG",
   "memes/morbidAngelMeme.JPG",
   "memes/nickelbackMeme.JPG",
+  "memes/nin_v_rick.JPG",
   "memes/nuMeme_1.JPG",
   "memes/nuMeme_2.JPG",
   "memes/ozzyMeme_1.JPG",
@@ -90,7 +93,7 @@ let memeSources = [
 ];
 
 let count = 0;
-const testing = false;
+const testing = true;
 
 function displayNewMemeProduction() {
   let min = Math.ceil(0);
