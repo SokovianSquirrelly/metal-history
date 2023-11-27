@@ -93,7 +93,7 @@ let memeSources = [
 ];
 
 let count = 0;
-const testing = true;
+const testing = false;
 
 function displayNewMemeProduction() {
   let min = Math.ceil(0);

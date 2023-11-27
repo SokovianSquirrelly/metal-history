@@ -46,7 +46,7 @@
         "imageSource" : "images/amy-winehouse.webp",
         "imageAlt" : "Retrieved from https://www.illamasqua.com/blog/amy-winehouse-collaboration/",
         "joke" : "You're an alcoholic."
-      },
+    },
     {
         "bandName" : "Animals as Leaders",
         "imageSource" : "images/animals-as-leaders.webp",
@@ -100,7 +100,7 @@
         "imageSource" : "images/atreyu.webp",
         "imageAlt" : "Retrieved from https://idobi.com/news/atreyus-generation-video-is-one-big-game-of-spot-the-musician/",
         "joke" : "You still have a lip ring from when you were 15."
-      },
+    },
     {
         "bandName" : "Avenged Sevenfold",
         "imageSource" : "images/a7x.webp",
@@ -178,7 +178,7 @@
         "imageSource" : "images/black-flag.webp",
         "imageAlt" : "Retrieved from https://www.wsj.com/articles/for-sale-black-flags-logo-the-most-iconic-symbol-of-hardcore-punk-1475770282",
         "joke" : "I'm sorry, but Henry Rollings is the hardcore scene's Elon Musk, and not in a good way."
-      },
+    },
     {
         "bandName" : "Black Sabbath",
         "imageSource" : "images/black-sabbath.webp",
@@ -285,7 +285,7 @@
         "bandName" : "Coldplay",
         "imageSource" : "images/coldplay.webp",
         "imageAlt" : "Retrieved from https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU",
-        "joke" : "You like the same song over and over. Oh, and let's be real, it's just Chris Martin's pretentious U2 knockoff."
+        "joke" : "You listen to the same song over and over. Oh, and let's be real, it's just Chris Martin's pretentious U2 knockoff."
     },
     {
         "bandName" : "Cradle of Filth",
@@ -334,7 +334,8 @@
         "imageSource" : "images/drake.webp",
         "imageAlt" : "Retrieved from https://www.popsugar.com/Drake",
         "joke" : "\"Drake the type of guy\" memes are now your favorite."
-    },    {
+    },    
+    {
         "bandName" : "Dream Theater",
         "imageSource" : "images/dream-theater.webp",
         "imageAlt" : "Retrieved from https://www.facebook.com/photo/?fbid=374482487376957&set=a.268057114686162",
@@ -405,7 +406,7 @@
         "imageSource" : "images/godsmack.webp",
         "imageAlt" : "Retrieved from https://www.iheart.com/artist/godsmack-39481/",
         "joke" : "You have an eyebrow piercing."
-      },
+    },
     {
         "bandName" : "George Strait",
         "imageSource" : "images/george-strait.webp",
@@ -501,7 +502,7 @@
         "imageSource" : "images/insane-clown-posse.webp",
         "imageAlt" : "Retrieved from https://www.houstonchronicle.com/local/article/Attention-Juggalos-Insane-Clown-Posse-coming-to-13253720.php",
         "joke" : "You love to gather with fellow juggalos and run around naked and spray each other with soda."
-      },
+    },
     {
         "bandName" : "Iron Maiden",
         "imageSource" : "images/iron-maiden-2.webp",
@@ -531,7 +532,7 @@
         "imageSource" : "images/journey.webp",
         "imageAlt" : "Retrieved from https://www.azcentral.com/story/entertainment/music/2016/05/09/journey-interview-neal-schon/84062372/",
         "joke" : "You're so pasty white, they decided to give mayonnaise the n-word pass."
-      },
+    },
     {
         "bandName" : "Judas Priest",
         "imageSource" : "images/judas_priest.webp",
@@ -579,7 +580,7 @@
         "imageSource" : "images/king-810.webp",
         "imageAlt" : "Retrieved from https://www.last.fm/music/King+810",
         "joke" : "You're a blue-collar worker from the Midwest."
-      },
+    },
     {
         "bandName" : "KISS",
         "imageSource" : "images/kiss.webp",
@@ -813,7 +814,7 @@
         "imageSource" : "images/nik-nocturnal.webp",
         "imageAlt" : "Retrieved from https://www.reddit.com/r/AltLadyboners/comments/w6aa2q/good_ol_nik_nocturnal/",
         "joke" : "You're just here for the memes."
-      },
+    },
     {
         "bandName" : "Nine Inch Nails",
         "imageSource" : "images/nine-inch-nails.webp",
@@ -1059,7 +1060,7 @@
         "imageSource" : "images/simple-plan.webp",
         "imageAlt" : "Retrieved from https://americansongwriter.com/simple-plan-20-years-down-and-still-going-strong/",
         "joke" : "You're one of those \"Disney adults.\""
-      },
+    },
     {
         "bandName" : "Skillet",
         "imageSource" : "images/skillet.webp",
@@ -1089,7 +1090,7 @@
         "imageSource" : "images/sleep-token.webp",
         "imageAlt" : "Retrieved from https://www.noecho.net/features/sleep-token-this-place-will-become-your-tomb-in-context",
         "joke" : "I get there are a lot of things to like about this band, but the way you talk about it is really pretentious."
-      },
+    },
     {
         "bandName" : "Sleeping With Sirens",
         "imageSource" : "images/sleeping-with-sirens.webp",
@@ -1269,7 +1270,7 @@
         "imageSource" : "images/wind-rose.webp",
         "imageAlt" : "Retrieved from https://www.theaudiodb.com/artist/146595",
         "joke" : "J.R.R. Tolkien is your god."
-      },
+    },
     {
         "bandName" : "ZZ Top",
         "imageSource" : "images/zz-top.webp",

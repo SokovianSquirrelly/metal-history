@@ -1,0 +1,32 @@
+#meme-button {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 15px 40px;
+  margin-top: 10px;
+  border-radius: 25%;
+  background-color: #8e1a23;
+  color: white;
+  font-family: "Metal Mania", cursive;
+  text-align: center;
+  font-size: 2em;
+}
+
+#meme-button:hover {
+  background-color: #72726e;
+  color: #171212;
+}
+
+#meme-image {
+  display: block;
+  max-height: 70vh;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 1em;
+}
+
+@media only screen and (max-width: 600px) {
+  #meme-image {
+    max-width: 90%;
+  }
+}
