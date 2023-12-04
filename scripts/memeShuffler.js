@@ -47,6 +47,17 @@ function display(source) {
     const memeImg = document.createElement("img");
     memeImg.setAttribute("src", memePath);
     memeDisplay.appendChild(memeImg);
+  } else if (source.format == "video") {
+    const memeVid = document.createElement("video");
+    memeVid.setAttribute("src", memePath);
+    memeVid.autoplay = true;
+    memeVid.loop = true;
+
+    const creditCaption = document.createElement("p");
+    creditCaption.textContent =source.caption;
+
+    memeDisplay.appendChild(memeVid);
+    memeDisplay.appendChild(creditCaption);
   }
 }
 
