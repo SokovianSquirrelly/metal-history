@@ -102,6 +102,12 @@
         "joke" : "You still have a lip ring from when you were 15."
     },
     {
+        "bandName" : "Attack Attack!",
+        "imageSource" : "images/attack-attack.webp",
+        "imageAlt" : "Retrieved from https://lessthanjake.fandom.com/wiki/Attack_Attack!",
+        "joke" : "You know the \"Stick Stickly\" crab-core trend was stupid, but you loved it anyway."
+    },
+    {
         "bandName" : "Avenged Sevenfold",
         "imageSource" : "images/a7x.webp",
         "imageAlt" : "Retrieved from https://www.last.fm/music/Avenged+Sevenfold/+images/02079239af814d795101da23f36e3f96",
@@ -528,6 +534,12 @@
         "joke" : "You have a weird obsession with Tatiana. Sure she's really talented and attractive, but you gotta calm down."
     },
     {
+        "bandName" : "Johnny Cash",
+        "imageSource" : "images/johnny-cash.webp",
+        "imageAlt" : "Retrieved from https://www.biography.com/musicians/johnny-cash",
+        "joke" : "You think spaghetti westerns were peak cinema."
+    },
+    {
         "bandName" : "Journey",
         "imageSource" : "images/journey.webp",
         "imageAlt" : "Retrieved from https://www.azcentral.com/story/entertainment/music/2016/05/09/journey-interview-neal-schon/84062372/",
@@ -832,6 +844,12 @@
         "imageSource" : "images/oasis.webp",
         "imageAlt" : "Retrieved from https://www.pinterest.com/pin/740208888770496301/",
         "joke" : "You hate half of the fanbase because they rooted for the wrong brother."
+    },
+    {
+        "bandName" : "Of Mice & Men",
+        "imageSource" : "images/of-mice-men.webp",
+        "imageAlt" : "Retrieved from https://music.youtube.com/channel/UCJ-wz6OpnRrgR2mC1n_pmcw",
+        "joke" : "You're sad that they're not as big as they used to be, but if nothing else, at least Austin's not around anymore!"
     },
     {
         "bandName" : "The Offspring",

@@ -17,7 +17,8 @@
   color: #171212;
 }
 
-#meme-image {
+#meme-display img,
+#meme-display video {
   display: block;
   max-height: 70vh;
   margin-left: auto;
