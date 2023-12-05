@@ -260,6 +260,11 @@
         "format" : "image"
     },
     {
+        "memeFilename" : "meme_videos/metallicaVid.mp4",
+        "format" : "video",
+        "caption" : "@fredspaghetti on TikTok"
+    },
+    {
         "memeFilename" : "memes/misfitsMeme.JPG",
         "format" : "image"
     },
