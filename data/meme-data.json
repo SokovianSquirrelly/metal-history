@@ -44,6 +44,11 @@
         "format" : "image"
     },
     {
+        "memeFilename" : "meme_videos/bmthVid.mp4",
+        "format" : "video",
+        "caption" : "roasteddiamondtumblr"
+    },
+    {
         "memeFilename" : "memes/cannibalCorpseMeme.jpg",
         "format" : "image"
     },
