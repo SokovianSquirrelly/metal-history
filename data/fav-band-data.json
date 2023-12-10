@@ -15,7 +15,7 @@
         "bandName" : "ABBA",
         "imageSource" : "images/abba.webp",
         "imageAlt" : "Retrieved from https://www.nytimes.com/2021/10/27/arts/music/abba-reunion-voyage.html",
-        "joke" : "The only movie you will ever watch more than once is Mamma Mia."
+        "joke" : "Either you absolutely love Mamma Mia or you hate it.  There's no middle ground."
     },
     {
         "bandName" : "Abruptum",
@@ -29,6 +29,30 @@
         "imageAlt" : "Retrieved from https://www.loudandquiet.com/short/finally-last-second-every-acdc-song-ever-recorded-one-place/",
         "joke" : "Not even you can sing in the shower.  Seriously, Brian's vocals are just too impressive to attempt."
     },
+    {
+        "bandName" : "Aerosmith",
+        "imageSource" : "images/aerosmith.webp",
+        "imageAlt" : "Retrieved from https://www.youtube.com/channel/UCYuinPfuhK_rSlrJXvZQrng",
+        "joke" : "You've tried to sing as high as Steven Tyler but injured yourself in the process.  Now what body part you injured the worst is still up for debate."
+    },
+    {
+        "bandName" : "Alestorm",
+        "imageSource" : "images/alestorm.webp",
+        "imageAlt" : "Retrieved from https://outburn.com/interviews/alestorm-the-virtues-of-piracy/",
+        "joke" : "You have scurvy."
+    },
+    {
+        "bandName" : "Alien Ant Farm",
+        "imageSource" : "images/alien-ant-farm.webp",
+        "imageAlt" : "Retrieved from https://www.last.fm/music/Alien+Ant+Farm",
+        "joke" : "You're insistance that their cover of \"Smooth Criminal\" is better than the original, and you've ruffled a lot of feathers as a result."
+    },
+    {
+        "bandName" : "Alice in Chains",
+        "imageSource" : "images/alice-in-chains.webp",
+        "imageAlt" : "Retrieved from https://tidal.com/browse/artist/608",
+        "joke" : "Nirvana got you into playing guitar, but Jerry Cantrell's guitar-playing got you to actually be good at the guitar."
+      },
     {
         "bandName" : "All Time Low",
         "imageSource" : "images/all-time-low.webp",
@@ -76,6 +100,12 @@
         "imageSource" : "images/architects.webp",
         "imageAlt" : "Retrieved from https://www.theguardian.com/music/2018/nov/14/architects-band-interview-dan-searle-tom-searle-cancer-new-album-holy-hell",
         "joke" : "You're a guitarist that ripped off the Doomsday riff.  Hey, don't act like it's not true."
+    },
+    {
+        "bandName" : "Archspire",
+        "imageSource" : "images/archspire.webp",
+        "imageAlt" : "Retrieved from https://actainfernalis.com/2021/10/12/interview-archspire-english/",
+        "joke" : "Six strings on a guitar is just not enough for you.  Even seven strings is still not enough.  Gotta go with at least eight."
     },
     {
         "bandName" : "Ariana Grande",
@@ -210,6 +240,12 @@
         "joke" : "You love Bollywood but you also have an edge."
     },
     {
+        "bandName" : "Bob Marley",
+        "imageSource" : "images/bob-marley.webp",
+        "imageAlt" : "Retrieved from https://www.vogue.com/article/bob-marley-marley-natural-beauty-botanicals-jamaica",
+        "joke" : "Your eyes are looking a little red.  You okay dude?"
+    },
+    {
         "bandName" : "Bon Jovi",
         "imageSource" : "images/bon-jovi.webp",
         "imageAlt" : "Retrieved from https://www.theguardian.com/music/2021/jan/25/jon-bon-jovi-on-wealth-love-and-his-ugly-tussle-with-trump-it-was-seriously-scarring",
@@ -312,10 +348,22 @@
         "joke" : "Dude, how is your hair THAT greasy!?"
     },
     {
+        "bandName" : "Def Leppard",
+        "imageSource" : "images/def-leppard.webp",
+        "imageAlt" : "Retrieved from https://simple.wikipedia.org/wiki/Def_Leppard",
+        "joke" : "You know you have to admit that your band is so unbelievably cheesy...it's just really hard to do."
+    },
+    {
         "bandName" : "Deftones",
         "imageSource" : "images/deftones.webp",
         "imageAlt" : "Retrieved from https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH",
         "joke" : "There's no way that anyone can be THAT horny...right?"
+    },
+    {
+        "bandName" : "Dimmu Borgir",
+        "imageSource" : "images/dimmu-borgir.webp",
+        "imageAlt" : "Retrieved from https://www.romania-insider.com/ost-fest-to-bring-norways-band-dimmu-borgir-to-bucharest-next-year",
+        "joke" : "You love watching the black metal gatekeepers piss themselves crying in anger whenever this band is brought up as a credible black metal band."
     },
     {
         "bandName" : "Dio",
@@ -328,6 +376,12 @@
         "imageSource" : "images/disturbed.webp",
         "imageAlt" : "Retrieved from https://www.facebook.com/photo/?fbid=585219572975611&set=a.311900360307535",
         "joke" : "You mastered that weird monkey scream."
+    },
+    {
+        "bandName" : "The Doors",
+        "imageSource" : "images/the-doors.webp",
+        "imageAlt" : "Retrieved from https://en.wikipedia.org/wiki/The_Doors",
+        "joke" : "You aspire to comfortably live in a van down by the river."
     },
     {
         "bandName" : "Dragonforce",
@@ -474,6 +528,12 @@
         "joke" : "You're a woman in her 20s and never had a real boyfriend. In other words, you never grew out of your One Direction phase."
     },
     {
+        "bandName" : "Helloween",
+        "imageSource" : "images/helloween.webp",
+        "imageAlt" : "Retrieved from https://www.facebook.com/helloweenofficial/photos/a.427293758906/10157765683343907/?type=3",
+        "joke" : "You're a power metal gatekeeper."
+    },
+    {
         "bandName" : "Hellyeah",
         "imageSource" : "images/hellyeah.webp",
         "imageAlt" : "Retrieved from https://cpr.heart.org/en/news/2019/05/17/drummers-death-inspires-grief-stricken-bandmates-to-rethink-rock-n-roll-lifestyle",
@@ -484,6 +544,12 @@
         "imageSource" : "images/the-hu2.webp",
         "imageAlt" : "Retrieved from https://loudwire.com/the-hu-2022-black-thunder-north-american-tour/",
         "joke" : "You desperately want to learn Mongolian throat singing."
+    },
+    {
+        "bandName" : "I Prevail",
+        "imageSource" : "images/i-prevail.webp",
+        "imageAlt" : "Retrieved from https://www.youtube.com/channel/UCgN1463ngpGdCpAbCBGFteg",
+        "joke" : "I just gotta say that getting big from a crappy metalcore cover of a Taylor Swift song is such a Chad move."
     },
     {
         "bandName" : "Ice Cube",
@@ -558,6 +624,12 @@
         "joke" : "You're still really pissed at Yellowcard, and rightfully so."
     },
     {
+        "bandName" : "Justin Bieber",
+        "imageSource" : "images/justin-bieber.webp",
+        "imageAlt" : "Retrieved from https://www.biography.com/musicians/justin-bieber",
+        "joke" : "Chances are, you were a 13-year old girl when he hit the scene, and no matter how much of a douche he was, you still thought he was the best thing since sliced bread (as a side note, let's just be glad he decided to grow up)."
+    },
+    {
         "bandName" : "Justin Timberlake",
         "imageSource" : "images/justin-timberlake.webp",
         "imageAlt" : "Retrieved from https://www.reuters.com/lifestyle/justin-timberlake-sells-song-catalogue-hipgnosis-2022-05-26/",
@@ -586,6 +658,12 @@
         "imageSource" : "images/kid-rock.webp",
         "imageAlt" : "Retrieved from https://nationaltoday.com/birthday/kid-rock/",
         "joke" : "Now I'm not saying you're a meth-addict, I'm just saying that all meth-addicts love Kid Rock."
+    },
+    {
+        "bandName" : "Killswitch Engage",
+        "imageSource" : "images/killswitch-engage.webp",
+        "imageAlt" : "Retrieved from https://www.iheart.com/artist/killswitch-engage-60898/",
+        "joke" : "You'd give anything to have both Howard and Jesse in the band."
     },
     {
         "bandName" : "King 810",
@@ -672,6 +750,12 @@
         "joke" : "It took a while, but you can finally distinguish the difference between Will Ramos and a Nazgûl."
     },
     {
+        "bandName" : "Lostprophets",
+        "imageSource" : "images/lostprophets.webp",
+        "imageAlt" : "Retrieved from https://www.iheart.com/artist/lostprophets-89600/",
+        "joke" : "Yikes!  Let's, uh, let's just skip this one."
+    },
+    {
         "bandName" : "Louis Armstrong",
         "imageSource" : "images/louis-armstrong.webp",
         "imageAlt" : "Retrieved from https://en.wikipedia.org/wiki/Louis_Armstrong",
@@ -708,6 +792,18 @@
         "joke" : "Either you're 12 or you're simping for Megan Fox. Probably both."
     },
     {
+        "bandName" : "Madonna",
+        "imageSource" : "images/madonna.webp",
+        "imageAlt" : "Retrieved from https://www.townandcountrymag.com/leisure/arts-and-culture/a45307148/madonna-biography-rebel-life-mary-gabriel/",
+        "joke" : "You self-identify as a cougar."
+    },
+    {
+        "bandName" : "Mariah Carey",
+        "imageSource" : "images/mariah-carey.webp",
+        "imageAlt" : "Retrieved from https://www.rollingstone.com/music/music-news/mariah-carey-butterfly-biopic-new-music-1234593825/",
+        "joke" : "You're a basic white mom."
+    },
+    {
         "bandName" : "Marilyn Manson",
         "imageSource" : "images/marilyn-manson.webp",
         "imageAlt" : "Retrieved from https://www.latimes.com/entertainment-arts/music/story/2023-01-30/marilyn-manson-sexual-assault-minor-lawsuit-interscope-nothing",
@@ -720,6 +816,12 @@
         "joke" : "Your mental illness is just for attention."
     },
     {
+        "bandName" : "Mayday Parade",
+        "imageSource" : "images/mayday-parade.webp",
+        "imageAlt" : "Retrieved from https://www.rockdestin.com/event/11094735/mayday-parade/",
+        "joke" : "This is the music you default to for all your relationship struggles."
+    },
+    {
         "bandName" : "Mayhem",
         "imageSource" : "images/mayhem.webp",
         "imageAlt" : "Retrieved from https://www.setlist.fm/news/04-20/rip-mayhem-played-5-song-set-w-dead-for-his-last-show-in-1990-2bd6acca",
@@ -730,6 +832,12 @@
         "imageSource" : "images/megadeth.webp",
         "imageAlt" : "Retrieved from https://www.udiscovermusic.com/artist/megadeth/",
         "joke" : "You think you're super cool solely because you say that Metallica sucks. You also have a hard time admitting that Dave Mustaine is a trainwreck."
+    },
+    {
+        "bandName" : "Memphis May Fire",
+        "imageSource" : "images/memphis-may-fire.webp",
+        "imageAlt" : "Retrieved from https://www.indievisionmusic.com/news/memphis-may-fire-wanting/",
+        "joke" : "You went to Warped Tour when you were 15 to see Matty become a youth pastor on stage."
     },
     {
         "bandName" : "Meshuggah",
@@ -768,6 +876,12 @@
         "joke" : "You have PTSD from the VMAs I don't even know how many years ago now."
     },
     {
+        "bandName" : "Morbid Angel",
+        "imageSource" : "images/morbid-angel.webp",
+        "imageAlt" : "Retrieved from https://distortedsoundmag.com/brutal-recall-blessed-are-the-sick-morbid-angel/",
+        "joke" : "The irony of listening to absolutely crushing, brutal metal like this and chilling at home in your fluffy bathrobe with your cat never fails to make you smile."
+    },
+    {
         "bandName" : "Motionless in White",
         "imageSource" : "images/motionless_in_white.webp",
         "imageAlt" : "Retrieved from https://www.last.fm/music/Motionless+in+White",
@@ -778,6 +892,12 @@
         "imageSource" : "images/motorhead.webp",
         "imageAlt" : "Retrieved from https://www.stereogum.com/1828062/motorhead-albums-from-worst-to-best/lists/",
         "joke" : "You're in a motorcycle gang."
+    },
+    {
+        "bandName" : "Mudvayne",
+        "imageSource" : "images/mudvayne.webp",
+        "imageAlt" : "Retrieved from https://www.reddit.com/r/numetal/comments/15d8w1h/thoughts_on_mudvayne_are_there_good/",
+        "joke" : "God help us all when you hear that \"burr burr ding.\""
     },
     {
         "bandName" : "Mumford & Sons",
@@ -801,7 +921,7 @@
         "bandName" : "Napalm Death",
         "imageSource" : "images/napalm-death.webp",
         "imageAlt" : "Retireved from https://www.decibelmagazine.com/2018/08/24/watch-napalm-deaths-shane-embury-perform-with-rap-group-gunshot-on-live-tv/",
-        "joke" : "You collect adult VHS films for some reason."
+        "joke" : "You got super excited to see Jim Carrey try and imitate this band during an interview."
     },
     {
         "bandName" : "Nickelback",
@@ -876,6 +996,12 @@
         "joke" : "You're REALLY basic."
     },
     {
+        "bandName" : "Opeth",
+        "imageSource" : "images/opeth.webp",
+        "imageAlt" : "Retrieved from https://www.facebook.com/photo/?fbid=816092933213426&set=a.342916100531114",
+        "joke" : "Being a metalhead with a sophisticated palette seems like an odd combination, but hey, it works!"
+    },
+    {
         "bandName" : "Our Last Night",
         "imageSource" : "images/our-last-night.webp",
         "imageAlt" : "https://soundcloud.com/ourlastnight",
@@ -936,6 +1062,12 @@
         "joke" : "You're definitely a Karen."
     },
     {
+        "bandName" : "Pink Floyd",
+        "imageSource" : "images/pink-floyd.webp",
+        "imageAlt" : "Retrieved from https://www.britannica.com/topic/Pink-Floyd",
+        "joke" : "I'm still trying to figure out how you're that cooked on acid and still alive, let alone semi-lucid."
+    },
+    {
         "bandName" : "Polyphia",
         "imageSource" : "images/polyphia.webp",
         "imageAlt" : "Retrieved from https://open.spotify.com/artist/4vGrte8FDu062Ntj0RsPiZ",
@@ -966,6 +1098,12 @@
         "joke" : "You thought Taylor was hot until you realized she played Cindy Lou Who, and now you just feel uncomfortable."
     },
     {
+        "bandName" : "Primus",
+        "imageSource" : "images/primus.webp",
+        "imageAlt" : "Retrieved from https://www.imdb.com/name/nm1277075/",
+        "joke" : "You're one weird dude."
+    },
+    {
         "bandName" : "Puddle of Mudd",
         "imageSource" : "images/puddle-mudd.webp",
         "imageAlt" : "Retrieved from https://www.discogs.com/artist/262019-Puddle-Of-Mudd",
@@ -978,6 +1116,12 @@
         "joke" : "\"Bohemian Rhapsody\" is the masterpiece to end all masterpieces and no one will ever convince you otherwise."
     },
     {
+        "bandName" : "Queens of the Stone Age",
+        "imageSource" : "images/queens-of-the-stone-age.webp",
+        "imageAlt" : "Retrieved from https://genius.com/artists/Queens-of-the-stone-age",
+        "joke" : "So are you technically a \"drug connoisseur?\""
+    },
+    {
         "bandName" : "Radiohead",
         "imageSource" : "images/radiohead.webp",
         "imageAlt" : "Retreived from https://www.washington.edu/news/2009/05/07/british-group-radiohead-inspires-staffer-to-write/",
@@ -988,6 +1132,12 @@
         "imageSource" : "images/ratm.webp",
         "imageAlt" : "Retrieved from https://www.ratm.com/home/",
         "joke" : "You unironically have a refrigerator magnet with Che Guevara's face on it."
+    },
+    {
+        "bandName" : "Rainbow",
+        "imageSource" : "images/rainbow.webp",
+        "imageAlt" : "Retrieved from https://www.imdb.com/name/nm3695644/",
+        "joke" : "Power metal is either the best or worst thing to spawn as a result of this band.  You're still not sure which one it is yet."
     },
     {
         "bandName" : "Rammstein",
@@ -1032,6 +1182,18 @@
         "joke" : "Your favorite holiday is EASILY Halloween."
     },
     {
+        "bandName" : "The Rolling Stones",
+        "imageSource" : "images/rolling-stones.webp",
+        "imageAlt" : "Retrieved from https://www.biography.com/musicians/rolling-stones-origins",
+        "joke" : "You can't see the hypocrisy of complaining about music today being \"full of drugs and sex.\"  You're also pretty sure Keith Richards is gonna outlive you...and your kids...and your grandkids."
+    },
+    {
+        "bandName" : "Royal Blood",
+        "imageSource" : "images/royal-blood.webp",
+        "imageAlt" : "Retrieved from https://www.revolvermag.com/artist-artist-interview/royal-blood-reveal-why-getting-dark-helped-them-avoid-sophomore-slump/23532",
+        "joke" : "You're still trying to figure out how to make your bass sound like a guitar."
+      },
+    {
         "bandName" : "Rush",
         "imageSource" : "images/rush.webp",
         "imageAlt" : "Retrieved from https://ew.com/music/rush-surviving-members-band-is-over/",
@@ -1042,6 +1204,12 @@
         "imageSource" : "images/sabaton_group.webp",
         "imageAlt" : "Retrieved from https://open.spotify.com/artist/3o2dn2O0FCVsWDFSh8qxgG",
         "joke" : "You're a history nerd."
+    },
+    {
+        "bandName" : "Saint Asonia",
+        "imageSource" : "images/saint-asonia.webp",
+        "imageAlt" : "Retrieved from https://www.iheart.com/artist/saint-asonia-30850952/",
+        "joke" : "You grew up with Three Days Grace and jumped ship when Adam formed this band instead."
     },
     {
         "bandName" : "Saliva",
@@ -1140,6 +1308,12 @@
         "joke" : "I'm guessing you're also a fan of Slipknot only because Corey and Jim are in both bands."
     },
     {
+        "bandName" : "Stone Temple Pilots",
+        "imageSource" : "images/stone-temple-pilots.webp",
+        "imageAlt" : "Retrieved from https://www.rollingstone.com/music/music-features/stone-temple-pilots-talk-new-singer-honoring-scott-weiland-and-chester-bennington-120933/",
+        "joke" : "Having a credible grunge band not be from Seattle just feels wrong somehow...great band though."
+    },
+    {
         "bandName" : "Suicide Silence",
         "imageSource" : "images/suicide-silence.webp",
         "imageAlt" : "Retrieved from https://loudwire.com/best-suicide-silence-songs/",
@@ -1197,7 +1371,7 @@
         "bandName" : "Three Days Grace",
         "imageSource" : "images/three-days-grace.webp",
         "imageAlt" : "Retrieved from https://open.spotify.com/artist/2xiIXseIJcq3nG7C8fHeBj",
-        "joke" : "Eversince Adam left, being a fan has been rough."
+        "joke" : "Eversince Adam left, being a fan has been rough. That being said, you're happy that Matt got his chance to shine after My Darkest Days fizzled out."
     },
     {
         "bandName" : "Tom Macdonald",
@@ -1222,6 +1396,12 @@
         "imageSource" : "images/travis-scott.webp",
         "imageAlt" : "Retrieved from https://www.npr.org/2021/11/16/1056198682/nike-travis-scott-shoe-astroworld-deaths-delayed",
         "joke" : "You're still keeping up with the Kardashians for some reason. Also, you bought into his \"apology\"."
+    },
+    {
+        "bandName" : "Tremonti",
+        "imageSource" : "images/tremonti.webp",
+        "imageAlt" : "Retrieved from https://www.headbangerslifestyle.com/features/interviews/tremonti/",
+        "joke" : "You hate Creed, but boy are you glad that Mark is now having the chance to let his talents shine."
     },
     {
         "bandName" : "Turnstile",
@@ -1270,6 +1450,12 @@
         "imageSource" : "images/weird-al-yankovic.webp",
         "imageAlt" : "Retrieved from https://www.perfectduluthday.com/the-event/weird-al-yankovic/",
         "joke" : "You're a nerd."
+    },
+    {
+        "bandName" : "The White Stripes",
+        "imageSource" : "images/white-stripes.webp",
+        "imageAlt" : "Retrieved from https://www.whitestripes.com/",
+        "joke" : "Why do you think Jack White is the best guitarist of all time?"
     },
     {
         "bandName" : "White Zombie",
