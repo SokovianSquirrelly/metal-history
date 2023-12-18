@@ -1,5 +1,5 @@
 let count = 0;
-const testing = true;
+const testing = false;
 const memeUrl = "data/meme-data.json";
 const memeDisplay = document.querySelector("#meme-display");
 
