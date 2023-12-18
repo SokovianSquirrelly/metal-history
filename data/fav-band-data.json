@@ -45,7 +45,7 @@
         "bandName" : "Alien Ant Farm",
         "imageSource" : "images/alien-ant-farm.webp",
         "imageAlt" : "Retrieved from https://www.last.fm/music/Alien+Ant+Farm",
-        "joke" : "You're insistance that their cover of \"Smooth Criminal\" is better than the original, and you've ruffled a lot of feathers as a result."
+        "joke" : "You're insistant that their cover of \"Smooth Criminal\" is better than the original, and you've ruffled a lot of feathers as a result."
     },
     {
         "bandName" : "Alice in Chains",
@@ -348,6 +348,12 @@
         "joke" : "Dude, how is your hair THAT greasy!?"
     },
     {
+        "bandName" : "Death",
+        "imageSource" : "images/death.webp",
+        "imageAlt" : "Retrieved from https://en.wikipedia.org/wiki/Death_%28metal_band%29",
+        "joke" : "The irony of listening to absolutely crushing, brutal metal like this and chilling at home in your fluffy bathrobe with your cat never fails to make you smile."
+    },
+    {
         "bandName" : "Def Leppard",
         "imageSource" : "images/def-leppard.webp",
         "imageAlt" : "Retrieved from https://simple.wikipedia.org/wiki/Def_Leppard",
@@ -582,6 +588,12 @@
         "joke" : "Your heyday is long behind you, but you're still somebody's awesome Grandpa."
     },
     {
+        "bandName" : "Ja Rule",
+        "imageSource" : "images/ja-rule.webp",
+        "imageAlt" : "Retrieved from https://people.com/music/ja-rule-open-to-teaching-hip-hop-college-course-exclusive/",
+        "joke" : "If you want a real joke, look up Fyre Festival."
+    },
+    {
         "bandName" : "Jason Aldean",
         "imageSource" : "images/jason-aldean.webp",
         "imageAlt" : "Retrieved from https://mobile.twitter.com/jason_aldean",
@@ -795,7 +807,7 @@
         "bandName" : "Madonna",
         "imageSource" : "images/madonna.webp",
         "imageAlt" : "Retrieved from https://www.townandcountrymag.com/leisure/arts-and-culture/a45307148/madonna-biography-rebel-life-mary-gabriel/",
-        "joke" : "You self-identify as a cougar."
+        "joke" : "You self-identify as a cougar. Kinda cringe, not gonna lie."
     },
     {
         "bandName" : "Mariah Carey",
@@ -879,7 +891,7 @@
         "bandName" : "Morbid Angel",
         "imageSource" : "images/morbid-angel.webp",
         "imageAlt" : "Retrieved from https://distortedsoundmag.com/brutal-recall-blessed-are-the-sick-morbid-angel/",
-        "joke" : "The irony of listening to absolutely crushing, brutal metal like this and chilling at home in your fluffy bathrobe with your cat never fails to make you smile."
+        "joke" : "You feel safer in the mosh pit than you do in your 9-5 office job."
     },
     {
         "bandName" : "Motionless in White",

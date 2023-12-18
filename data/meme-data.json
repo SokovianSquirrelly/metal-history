@@ -12,7 +12,11 @@
         "format" : "image"
     },
     {
-        "memeFilename" : "memes/blackSabbathMeme.JPG",
+        "memeFilename" : "memes/blackSabbathMeme_1.JPG",
+        "format" : "image"
+    },
+    {
+        "memeFilename" : "memes/blackSabbathMeme_2.JPG",
         "format" : "image"
     },
     {
@@ -57,6 +61,10 @@
         "format" : "image"
     },
     {
+        "memeFilename" : "memes/cranberriesMeme.JPG",
+        "format" : "image"
+    },
+    {
         "memeFilename" : "memes/deadKennedysMeme.JPG",
         "format" : "image"
     },
@@ -85,7 +93,19 @@
         "format" : "image"
     },
     {
+        "memeFilename" : "memes/dthMeme_3.JPG",
+        "format" : "image"
+    },
+    {
         "memeFilename" : "memes/eminemMeme.JPG",
+        "format" : "image"
+    },
+    {
+        "memeFilename" : "memes/fooFightersMeme_1.JPG",
+        "format" : "image"
+    },
+    {
+        "memeFilename" : "memes/fooFightersMeme_2.JPG",
         "format" : "image"
     },
     {
@@ -106,6 +126,10 @@
     },
     {
         "memeFilename" : "memes/gthMeme.JPG",
+        "format" : "image"
+    },
+    {
+        "memeFilename" : "memes/hardcoreMeme.JPG",
         "format" : "image"
     },
     {
@@ -189,7 +213,35 @@
         "format" : "image"
     },
     {
+        "memeFilename" : "memes/hvyMeme_21.JPG",
+        "format" : "image"
+    },
+    {
+        "memeFilename" : "memes/hvyMeme_22.JPG",
+        "format" : "image"
+    },
+    {
+        "memeFilename" : "memes/hvyMeme_23.JPG",
+        "format" : "image"
+    },
+    {
+        "memeFilename" : "memes/hvyMeme_24.JPG",
+        "format" : "image"
+    },
+    {
+        "memeFilename" : "memes/hvyMeme_25.JPG",
+        "format" : "image"
+    },
+    {
+        "memeFilename" : "memes/hvyMeme_26.JPG",
+        "format" : "image"
+    },
+    {
         "memeFilename" : "memes/iPrevail_v_breakingBenjamin.JPG",
+        "format" : "image"
+    },
+    {
+        "memeFilename" : "memes/kidRockMeme.JPG",
         "format" : "image"
     },
     {
@@ -205,11 +257,23 @@
         "format" : "image"
     },
     {
+        "memeFilename" : "memes/kornMeme_3.JPG",
+        "format" : "image"
+    },
+    {
+        "memeFilename" : "memes/kornMeme_4.JPG",
+        "format" : "image"
+    },
+    {
         "memeFilename" : "memes/lambOfGodMeme_1.JPG",
         "format" : "image"
     },
     {
         "memeFilename" : "memes/lambOfGodMeme_2.JPG",
+        "format" : "image"
+    },
+    {
+        "memeFilename" : "memes/lambOfGodMeme_3.JPG",
         "format" : "image"
     },
     {
@@ -222,6 +286,26 @@
     },
     {
         "memeFilename" : "memes/lornaShoreMeme_2.JPG",
+        "format" : "image"
+    },
+    {
+        "memeFilename" : "memes/lostprophetsMeme.JPG",
+        "format" : "image"
+    },
+    {
+        "memeFilename" : "memes/lukeBryanMeme.JPG",
+        "format" : "image"
+    },
+    {
+        "memeFilename" : "memes/marilynMansonMeme.JPG",
+        "format" : "image"
+    },
+    {
+        "memeFilename" : "memes/mayhemMeme_1.jpg",
+        "format" : "image"
+    },
+    {
+        "memeFilename" : "memes/mayhemMeme_2.JPG",
         "format" : "image"
     },
     {
@@ -265,6 +349,22 @@
         "format" : "image"
     },
     {
+        "memeFilename" : "memes/metallicaMeme_8.JPG",
+        "format" : "image"
+    },
+    {
+        "memeFilename" : "memes/metallicaMeme_9.JPG",
+        "format" : "image"
+    },
+    {
+        "memeFilename" : "memes/mgk_v_slipknot_1.JPG",
+        "format" : "image"
+    },
+    {
+        "memeFilename" : "memes/mgk_v_slipknot_2.JPG",
+        "format" : "image"
+    },
+    {
         "memeFilename" : "meme_videos/metallicaVid.mp4",
         "format" : "video",
         "caption" : "@fredspaghetti on TikTok"
@@ -275,6 +375,10 @@
     },
     {
         "memeFilename" : "memes/morbidAngelMeme.JPG",
+        "format" : "image"
+    },
+    {
+        "memeFilename" : "memes/nickelback_v_nirvana_v_owen_wilson.JPG",
         "format" : "image"
     },
     {
@@ -330,11 +434,27 @@
         "format" : "image"
     },
     {
-        "memeFilename" : "memes/rckMeme.JPG",
+        "memeFilename" : "memes/rckMeme_1.JPG",
+        "format" : "image"
+    },
+    {
+        "memeFilename" : "memes/rckMeme_2.JPG",
+        "format" : "image"
+    },
+    {
+        "memeFilename" : "memes/rckMeme_3.JPG",
         "format" : "image"
     },
     {
         "memeFilename" : "memes/robZombieMeme.JPG",
+        "format" : "image"
+    },
+    {
+        "memeFilename" : "memes/rushMeme.JPG",
+        "format" : "image"
+    },
+    {
+        "memeFilename" : "memes/simonGarfunkelMeme.JPG",
         "format" : "image"
     },
     {
@@ -346,6 +466,10 @@
         "format" : "image"
     },
     {
+        "memeFilename" : "memes/slayerMeme_2.JPG",
+        "format" : "image"
+    },
+    {
         "memeFilename" : "memes/slipknotMeme_1.JPG",
         "format" : "image"
     },
@@ -354,7 +478,31 @@
         "format" : "image"
     },
     {
+        "memeFilename" : "memes/slipknotMeme_3.JPG",
+        "format" : "image"
+    },
+    {
+        "memeFilename" : "memes/slipknotMeme_4.JPG",
+        "format" : "image"
+    },
+    {
+        "memeFilename" : "memes/slipknotMeme_5.JPG",
+        "format" : "image"
+    },
+    {
+        "memeFilename" : "memes/slipknotMeme_6.JPG",
+        "format" : "image"
+    },
+    {
         "memeFilename" : "memes/soad_v_greenDay.jpg",
+        "format" : "image"
+    },
+    {
+        "memeFilename" : "memes/toolMeme_1.JPG",
+        "format" : "image"
+    },
+    {
+        "memeFilename" : "memes/toolMeme_2.JPG",
         "format" : "image"
     },
     {
