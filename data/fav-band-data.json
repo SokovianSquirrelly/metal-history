@@ -180,6 +180,12 @@
         "joke" : "See Beatles...but surfing."
     },
     {
+        "bandName" : "Beastie Boys",
+        "imageSource" : "images/beastie-boys.webp",
+        "imageAlt" : "Retrieved from https://www.npr.org/sections/therecord/2012/05/04/152027157/adam-yauch-co-founder-of-the-beastie-boys-dies",
+        "joke" : "You're a dad that drives a Subaru."
+    },
+    {
         "bandName" : "The Beatles",
         "imageSource" : "images/beatles.webp",
         "imageAlt" : "Retrieved from https://en.wikipedia.org/wiki/The_Beatles",
@@ -1044,6 +1050,12 @@
         "joke" : "You've been to Spencer's a few too many times."
     },
     {
+        "bandName" : "Parkway Drive",
+        "imageSource" : "images/parkway-drive.webp",
+        "imageAlt" : "Retrieved from https://first-avenue.com/performer/parkway-drive/",
+        "joke" : "You're probably a really chill person."
+    },
+    {
         "bandName" : "Pearl Jam",
         "imageSource" : "images/pearl-jam.webp",
         "imageAlt" : "Retrieved from https://www.nme.com/news/music/pearl-jam-share-new-digital-mixes-of-ten-and-no-code-to-mark-landmark-anniversaries-3031231",
@@ -1171,8 +1183,6 @@
     },
     {
         "bandName" : "Rick Astley",
-        "imageSource" : "",
-        "imageAlt" : "",
         "joke" : ""
     },
     {
@@ -1282,6 +1292,12 @@
         "imageSource" : "images/slayer.webp",
         "imageAlt" : "Retrieved from https://www.latimes.com/entertainment-arts/music/story/2019-11-26/slayer-heavy-metal-farewell-last-shows-forum",
         "joke" : "You want to listen to heavy music but death metal is too much for you."
+    },
+    {
+        "bandName" : "Sleep",
+        "imageSource" : "images/sleep.webp",
+        "imageAlt" : "Retrieved from https://riffipedia.fandom.com/wiki/Sleep",
+        "joke" : "When you sere in middle school, you thought anything regarding weed was the funniest thing ever.  And now that being a stoner is so ingrained into your personality, you've become such an incredibly boring person."
     },
     {
         "bandName" : "Sleep Token",
@@ -1458,6 +1474,12 @@
         "joke" : "You like cocaine."
     },
     {
+        "bandName" : "Weezer",
+        "imageSource" : "images/weezer.webp",
+        "imageAlt" : "Retrieved from https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu",
+        "joke" : "Wait, do you love them or hate them?  Because I really can't tell at this point."
+    },
+    {
         "bandName" : "'Weird Al' Yankovic",
         "imageSource" : "images/weird-al-yankovic.webp",
         "imageAlt" : "Retrieved from https://www.perfectduluthday.com/the-event/weird-al-yankovic/",
@@ -1486,6 +1508,12 @@
         "imageSource" : "images/wind-rose.webp",
         "imageAlt" : "Retrieved from https://www.theaudiodb.com/artist/146595",
         "joke" : "J.R.R. Tolkien is your god."
+    },
+    {
+        "bandName" : "Winger",
+        "imageSource" : "images/winger.webp",
+        "imageAlt" : "Retrieved from https://www.bestmusic80.com/post/on-a-day-like-today",
+        "joke" : "You don't know why they got picked on so much in the '90s. Neither do I to be honest."
     },
     {
         "bandName" : "ZZ Top",
