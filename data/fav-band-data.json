@@ -138,6 +138,12 @@
         "joke" : "You know the \"Stick Stickly\" crab-core trend was stupid, but you loved it anyway."
     },
     {
+        "bandName" : "Attila",
+        "imageSource" : "images/attila.webp",
+        "imageAlt" : "Retrieved from https://aminoapps.com/c/metal/page/item/atilla/D8zC_NImlV1aQvWwkJQ2YnYKM7loYbx",
+        "joke" : "You're pretty sure Fronz is just trolling the audience and is not actually as obnoxious as everyone thinks he is."
+    },
+    {
         "bandName" : "Avenged Sevenfold",
         "imageSource" : "images/a7x.webp",
         "imageAlt" : "Retrieved from https://www.last.fm/music/Avenged+Sevenfold/+images/02079239af814d795101da23f36e3f96",
@@ -240,6 +246,12 @@
         "joke" : "You still think fart jokes are funny."
     },
     {
+        "bandName" : "Blood on the Dance Floor",
+        "imageSource" : "images/blood-on-the-dance-floor.webp",
+        "imageAlt" : "Retrieved from https://www.sacurrent.com/music/look-at-these-creepy-sexist-assholes-blood-on-the-dance-floor-at-fitzgeralds-2483677",
+        "joke" : "You have concerning fantasies about being intimate with Jeffery Dahmer or Ted Bundy."
+    },
+    {
         "bandName" : "Bloodywood",
         "imageSource" : "images/bloodywood.webp",
         "imageAlt" : "Retrieved from https://open.spotify.com/artist/4HFpzehKjow2WqU4EJ6Wy9",
@@ -268,6 +280,12 @@
         "imageSource" : "images/britney-spears.webp",
         "imageAlt" : "Retrieved from https://www.vulture.com/2022/11/britney-spears-documentaries-trash.html",
         "joke" : "For the love of all that is holy, do NOT follow her on social media!"
+    },
+    {
+        "bandName" : "Brokencyde",
+        "imageSource" : "images/brokencyde.webp",
+        "imageAlt" : "Retrieved from https://www.deezer.com/us/artist/389739",
+        "joke" : "You're a 12-year-old trying to fit into both the popular crowd and the scene crowd...and are failing at both."
     },
     {
         "bandName" : "BTS",
@@ -462,6 +480,12 @@
         "joke" : "You're very pro second ammendment."
     },
     {
+        "bandName" : "Fleetwood Mac",
+        "imageSource" : "images/fleetwood-mac.webp",
+        "imageAlt" : "Retrieved from https://en.wikipedia.org/wiki/Fleetwood_Mac",
+        "joke" : "You'd love nothing more than to watch a documentary about all the juicy relationship problems within the band."
+    },
+    {
         "bandName" : "Florida Georgia Line",
         "imageSource" : "images/florida-georgia-line.webp",
         "imageAlt" : "Retrieved from https://floridageorgialine.com/",
@@ -580,6 +604,12 @@
         "imageSource" : "images/imagine-dragons.webp",
         "imageAlt" : "Retrieved from https://www.fox8live.com/2022/03/11/imagine-dragons-khalid-macklemore-headline-2022-ncaa-march-madness-music-festival-new-orleans/",
         "joke" : "You're a sheltered kid who is trying way too hard to be edgy."
+    },
+    {
+        "bandName" : "Immortal",
+        "imageSource" : "images/immortal.webp",
+        "imageAlt" : "Retrieved from https://metalheadcommunity.com/history-of-black-metal/",
+        "joke" : "You've definitely cosplayed as Abbath."
     },
     {
         "bandName" : "Insane Clown Posse",
@@ -1252,6 +1282,12 @@
         "joke" : "Let's be honest, the reason you became interested in this band was because you saw their vocalist, Mizuho. Yeah, I don't blame you."
     },
     {
+        "bandName" : "Sex Pistols",
+        "imageSource" : "images/sex-pistols.webp",
+        "imageAlt" : "Retrieved from https://www.iheart.com/artist/sex-pistols-31237/",
+        "joke" : "You're chaotic."
+    },
+    {
         "bandName" : "Sick Puppies",
         "imageSource" : "images/sick-puppies.webp",
         "imageAlt" : "Retrieved from https://loudwire.com/frontman-shimon-moore-leaves-sick-puppies/",
@@ -1268,6 +1304,12 @@
         "imageSource" : "images/simple-plan.webp",
         "imageAlt" : "Retrieved from https://americansongwriter.com/simple-plan-20-years-down-and-still-going-strong/",
         "joke" : "You're one of those \"Disney adults.\""
+    },
+    {
+        "bandName" : "Six Feet Under",
+        "imageSource" : "images/6-feet-under.webp",
+        "imageAlt" : "Retrieved from https://metal.fandom.com/wiki/Six_Feet_Under",
+        "joke" : "You choose to ignore Chris Barnes's absolutely atrocious vocals in order to justify liking this band."
     },
     {
         "bandName" : "Skillet",
@@ -1340,6 +1382,12 @@
         "imageSource" : "images/stone-temple-pilots.webp",
         "imageAlt" : "Retrieved from https://www.rollingstone.com/music/music-features/stone-temple-pilots-talk-new-singer-honoring-scott-weiland-and-chester-bennington-120933/",
         "joke" : "Having a credible grunge band not be from Seattle just feels wrong somehow...great band though."
+    },
+    {
+        "bandName" : "Sublime",
+        "imageSource" : "images/sublime.webp",
+        "imageAlt" : "Retrieved from https://www.offbeat.com/news/sublime-sublime/",
+        "joke" : "You're a frat boy."
     },
     {
         "bandName" : "Suicide Silence",
