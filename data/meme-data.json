@@ -237,6 +237,10 @@
         "format" : "image"
     },
     {
+        "memeFilename" : "memes/hvyMeme_27.jpg",
+        "format" : "image"
+    },
+    {
         "memeFilename" : "memes/iPrevail_v_breakingBenjamin.JPG",
         "format" : "image"
     },
@@ -354,6 +358,10 @@
     },
     {
         "memeFilename" : "memes/metallicaMeme_9.JPG",
+        "format" : "image"
+    },
+    {
+        "memeFilename" : "memes/metallicaMeme_10.jpg",
         "format" : "image"
     },
     {

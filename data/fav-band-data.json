@@ -30,6 +30,12 @@
         "joke" : "Not even you can sing in the shower.  Seriously, Brian's vocals are just too impressive to attempt."
     },
     {
+        "bandName" : "Adele",
+        "imageSource" : "images/adele.webp",
+        "imageAlt" : "Retrieved from https://www.hellomagazine.com/tags/adele/",
+        "joke" : "You're a depressed, middle-aged mom."
+    },
+    {
         "bandName" : "Aerosmith",
         "imageSource" : "images/aerosmith.webp",
         "imageAlt" : "Retrieved from https://www.youtube.com/channel/UCYuinPfuhK_rSlrJXvZQrng",
@@ -58,6 +64,12 @@
         "imageSource" : "images/all-time-low.webp",
         "imageAlt" : "Retrieved from https://conversationsabouther.net/all-time-low-take-cover-music-video/",
         "joke" : "It was never a phase. It's always been a lifestyle!"
+    },
+    {
+        "bandName" : "Amaranthe",
+        "imageSource" : "images/amaranthe.webp",
+        "imageAlt" : "Retrieved from https://www.bringthenoiseuk.com/202005/news/music-news-amaranthe-announce-release-date-of-sixth-studio-album",
+        "joke" : "You really only got into this band so you can pick up European girls on Instagram."
     },
     {
         "bandName" : "Amon Amarth",
@@ -152,7 +164,7 @@
     {
         "bandName" : "Avril Lavigne",
         "imageSource" : "images/avril-lavigne.webp",
-        "imageAlt" : "Retrived from https://www.glamourmagazine.co.uk/article/avril-lavigne-haircut-yungblud",
+        "imageAlt" : "Retrieved from https://www.glamourmagazine.co.uk/article/avril-lavigne-haircut-yungblud",
         "joke" : "You love Hello Kitty."
     },
     {
@@ -160,6 +172,12 @@
         "imageSource" : "images/babymetal.webp",
         "imageAlt" : "Retrieved from https://loudwire.com/babymetal-dolls-coming-soon/",
         "joke" : "You're a weeb."
+    },
+    {
+        "bandName" : "Bad Omens",
+        "imageSource" : "images/bad-omens.webp",
+        "imageAlt" : "Retrieved from https://www.last.fm/music/Bad+Omens",
+        "joke" : "Regardless of your gender or sexual orientation, you're still attracted to Noah."
     },
     {
         "bandName" : "Bad Wolves",
@@ -206,7 +224,7 @@
     {
         "bandName" : "Beyoncé",
         "imageSource" : "images/beyonce.webp",
-        "imageAlt" : "https://www.britannica.com/biography/Beyonce",
+        "imageAlt" : "Retrieved from https://www.britannica.com/biography/Beyonce",
         "joke" : "You're dating a Jay-Z fan for one reason and one reason only: you want to be just like the Queen B."
     },
     {
@@ -268,6 +286,12 @@
         "imageSource" : "images/bon-jovi.webp",
         "imageAlt" : "Retrieved from https://www.theguardian.com/music/2021/jan/25/jon-bon-jovi-on-wealth-love-and-his-ugly-tussle-with-trump-it-was-seriously-scarring",
         "joke" : "You're from New Jersey, and thank goodness something good came out of New Jersey."
+    },
+    {
+        "bandName" : "Breathe Carolina",
+        "imageSource" : "images/breathe-carolina.webp",
+        "imageAlt" : "Retrieved from https://www.youtube.com/channel/UC6JOXqJ5lyW78-xiqhI4lhA",
+        "joke" : "You got into drugs at an early age."
     },
     {
         "bandName" : "Bring Me the Horizon",
@@ -333,13 +357,19 @@
         "bandName" : "Chainsmokers",
         "imageSource" : "images/chainsmokers.webp",
         "imageAlt" : "Retrieved from https://www.cosmopolitan.com/entertainment/music/a8615364/chainsmokers-edm-musicians-facts/",
-        "joke" : "You're a college student with the most basic, uninteresting personality any of your professors have ever seen."
+        "joke" : "You're a college student with a personality so basic that even your boomer professors think you're boring."
     },
     {
         "bandName" : "Chelsea Grin",
         "imageSource" : "images/chelsea-grin.webp",
         "imageAlt" : "Retrieved from https://twitter.com/ChelseaGrinUT",
         "joke" : "You're an edgy kid from Utah, much to your parents' displeasure."
+    },
+    {
+        "bandName" : "Chiodos",
+        "imageSource" : "images/chiodos.webp",
+        "imageAlt" : "Retrieved from https://music.youtube.com/channel/UCCAH1vVNB0j-nbQ_1_ioPeg",
+        "joke" : "You only liked this band because you thought Craig Owens was hot. I'm sorry, but their music sucks."
     },
     {
         "bandName" : "Coal Chamber",
@@ -370,6 +400,24 @@
         "imageSource" : "images/creed.webp",
         "imageAlt" : "Retrieved from https://www.inlander.com/music/roll-with-it-2133824",
         "joke" : "Dude, how is your hair THAT greasy!?"
+    },
+    {
+        "bandName" : "Crystal Lake",
+        "imageSource" : "images/crystal-lake.webp",
+        "imageAlt" : "Retrieved from https://www.deezer.com/en/artist/373651",
+        "joke" : "I'm sorry dude, but they're literally just the Japanese version of Architects."
+    },
+    {
+        "bandName" : "Custard",
+        "imageSource" : "images/custard.webp",
+        "imageAlt" : "Retrieved from https://www.australialive.org.au/artists/custard/",
+        "joke" : "Bluey is your kids' favorite TV show...and yours as well.  Not to mention you relate a little too hard to Bandit."
+    },
+    {
+        "bandName" : "Daughtry",
+        "imageSource" : "images/daughtry.webp",
+        "imageAlt" : "Retrieved from https://www.eonline.com/news/1335518/why-chris-daughtry-feels-guilt-after-the-deaths-of-his-daughter-mom",
+        "joke" : "You're a mom."
     },
     {
         "bandName" : "Death",
@@ -576,6 +624,12 @@
         "joke" : "You're a redneck, but country music just ain't cutting it."
     },
     {
+        "bandName" : "Hole",
+        "imageSource" : "images/hole.webp",
+        "imageAlt" : "Retrieved from https://open.spotify.com/artist/5SHQUMAmEK5KmuSb0aDvsn",
+        "joke" : "You've had the cops called on you multiple times.  Every single time it happens, it's after you've been yelling at your boyfriend in the 7-11 parking lot while wearing your Cookie Monster pajamas."
+    },
+    {
         "bandName" : "The Hu",
         "imageSource" : "images/the-hu2.webp",
         "imageAlt" : "Retrieved from https://loudwire.com/the-hu-2022-black-thunder-north-american-tour/",
@@ -612,6 +666,12 @@
         "joke" : "You've definitely cosplayed as Abbath."
     },
     {
+        "bandName" : "Incubus",
+        "imageSource" : "images/incubus.webp",
+        "imageAlt" : "Retrieved from https://www.last.fm/music/Incubus",
+        "joke" : "You're a diva."
+    },
+    {
         "bandName" : "Insane Clown Posse",
         "imageSource" : "images/insane-clown-posse.webp",
         "imageAlt" : "Retrieved from https://www.houstonchronicle.com/local/article/Attention-Juggalos-Insane-Clown-Posse-coming-to-13253720.php",
@@ -633,7 +693,7 @@
         "bandName" : "Jason Aldean",
         "imageSource" : "images/jason-aldean.webp",
         "imageAlt" : "Retrieved from https://mobile.twitter.com/jason_aldean",
-        "joke" : "You're a hopeless romantic."
+        "joke" : "You're still obsessed with using \"Try That in a Small Town\" as evidence for...I don't even know what at this point."
     },
     {
         "bandName" : "Jay-Z",
@@ -651,7 +711,13 @@
         "bandName" : "Johnny Cash",
         "imageSource" : "images/johnny-cash.webp",
         "imageAlt" : "Retrieved from https://www.biography.com/musicians/johnny-cash",
-        "joke" : "You think spaghetti westerns were peak cinema."
+        "joke" : "You think spaghetti westerns were peak cinema.  Yeah, they kinda were."
+    },
+    {
+        "bandName" : "Jojo Siwa",
+        "imageSource" : "images/jojo_siwa.webp",
+        "imageAlt" : "Retrieved from https://www.pennlive.com/life/2024/04/wwe-villian-fans-have-something-to-say-about-jojo-siwas-new-look.html",
+        "joke" : "You're a homeschooled kid who was just given their first Mountain Dew."
     },
     {
         "bandName" : "Journey",
@@ -738,6 +804,12 @@
         "joke" : "Goth girls really get you going."
     },
     {
+        "bandName" : "Kottonmouth Kings",
+        "imageSource" : "images/kottonmouth-kings.webp",
+        "imageAlt" : "Retrieved from https://www.reverbnation.com/kottonmouthkings/song/3689459-long-live-the-kings-sampler",
+        "joke" : "You're in your 40's and you're still a part of stoner culture?  Why?"
+    },
+    {
         "bandName" : "Lady Gaga",
         "imageSource" : "images/lady-gaga.webp",
         "imageAlt" : "Retrieved from https://en.wikipedia.org/wiki/Lady_Gaga",
@@ -776,7 +848,7 @@
     {
         "bandName" : "Lindsey Stirling",
         "imageSource" : "images/lindsey-stirling.webp",
-        "imageAlt" : "https://movingart.com/lindsey-stirling-louie-schwartzberg-crystalize/",
+        "imageAlt" : "Retrieved from https://movingart.com/lindsey-stirling-louie-schwartzberg-crystalize/",
         "joke" : "You're a violinist and a gamer."
     },
     {
@@ -784,6 +856,12 @@
         "imageSource" : "images/little-big-town.webp",
         "imageAlt" : "Retrieved from https://www.umgnashville.com/news/little-big-town-releases-new-song-all-summer-from-upcoming-new-album/",
         "joke" : "You choose not to have shoes or indoor plumbing."
+    },
+    {
+        "bandName" : "Lizzo",
+        "imageSource" : "images/lizzo.webp",
+        "imageAlt" : "Retrieved from https://www.britannica.com/biography/Lizzo",
+        "joke" : "When someone decides they want to lose weight, you automatically start calling them fat-phobic."
     },
     {
         "bandName" : "LMFAO",
@@ -828,16 +906,28 @@
         "joke" : "Calm down ladies, he's already married."
     },
     {
+        "bandName" : "The Lumineers",
+        "imageSource" : "images/lumineers.webp",
+        "imageAlt" : "Retrieved from https://www.livenation.lat/en/artist-the-lumineers-309954",
+        "joke" : "You're a hipster."
+    },
+    {
         "bandName" : "Lynyrd Skynyrd",
         "imageSource" : "images/lynyrd-skynyrd.webp",
         "imageAlt" : "Retrieved from https://open.spotify.com/artist/4MVyzYMgTwdP7Z49wAZHx0",
-        "joke" : "Once the alcohol kicks in, the only song you ever want to listen to is \"Free Bird\"."
+        "joke" : "Your family tree is really a family wreath."
     },
     {
         "bandName" : "Machine Gun Kelly",
         "imageSource" : "images/machine-gun-kelly.webp",
         "imageAlt" : "Retrieved from https://www.nme.com/big-reads/machine-gun-kelly-cover-interview-2020-tickets-to-my-downfall-2795566",
         "joke" : "Either you're 12 or you're simping for Megan Fox. Probably both."
+    },
+    {
+        "bandName" : "Macklemore",
+        "imageSource" : "images/macklemore.webp",
+        "imageAlt" : "Retrieved from https://www.wegow.com/us/concerts/konzert-von-macklemore-in-monchengladbach-warsteiner-hockeypark",
+        "joke" : "You were definitely homeschooled when you tried to get into hip hop."
     },
     {
         "bandName" : "Madonna",
@@ -849,7 +939,7 @@
         "bandName" : "Mariah Carey",
         "imageSource" : "images/mariah-carey.webp",
         "imageAlt" : "Retrieved from https://www.rollingstone.com/music/music-news/mariah-carey-butterfly-biopic-new-music-1234593825/",
-        "joke" : "You're a basic white mom."
+        "joke" : "You're a basic white mom who continues to ruin Christmas for everyone."
     },
     {
         "bandName" : "Marilyn Manson",
@@ -876,10 +966,22 @@
         "joke" : "We're all pretty sure you're saying this is your favorite band just so you can scare people."
     },
     {
+        "bandName" : "Meg Washington",
+        "imageSource" : "images/meg_washington.webp",
+        "imageAlt" : "Retrieved from https://coastboxoffice.com/?show=C935A17DBF66FB009B412878148C75F3",
+        "joke" : "You're a grown adult that cries during certain Bluey episodes."
+    },
+    {
         "bandName" : "Megadeth",
         "imageSource" : "images/megadeth.webp",
         "imageAlt" : "Retrieved from https://www.udiscovermusic.com/artist/megadeth/",
         "joke" : "You think you're super cool solely because you say that Metallica sucks. You also have a hard time admitting that Dave Mustaine is a trainwreck."
+    },
+    {
+        "bandName" : "Megan Thee Stallion",
+        "imageSource" : "images/megan_thee_stallion.webp",
+        "imageAlt" : "Retrieved from https://www.rollingstone.com/music/music-news/megan-thee-stallion-new-single-boa-announcement-1235016647/",
+        "joke" : "She-Hulk is now your favorite superhero."
     },
     {
         "bandName" : "Memphis May Fire",
@@ -924,16 +1026,34 @@
         "joke" : "You have PTSD from the VMAs I don't even know how many years ago now."
     },
     {
+        "bandName" : "Millionaires",
+        "imageSource" : "images/millionaires.webp",
+        "imageAlt" : "Retrieved from https://reggieslive.com/band/millionaires/",
+        "joke" : "You definitely copied Melissa's look when you were in 7th grade.  Or you had a huge crush on her."
+    },
+    {
         "bandName" : "Morbid Angel",
         "imageSource" : "images/morbid-angel.webp",
         "imageAlt" : "Retrieved from https://distortedsoundmag.com/brutal-recall-blessed-are-the-sick-morbid-angel/",
         "joke" : "You feel safer in the mosh pit than you do in your 9-5 office job."
     },
     {
+        "bandName" : "Mother Mother",
+        "imageSource" : "images/mother_mother.webp",
+        "imageAlt" : "Retrieved from https://www.deezer.com/us/artist/380362",
+        "joke" : "You're still in your cringey Egirl phase."
+    },
+    {
         "bandName" : "Motionless in White",
         "imageSource" : "images/motionless_in_white.webp",
         "imageAlt" : "Retrieved from https://www.last.fm/music/Motionless+in+White",
         "joke" : "You don't realize this yet, but cheesy Halloween music is your guilty pleasure."
+    },
+    {
+        "bandName" : "Mötley Crüe",
+        "imageSource" : "images/mtly-cru.webp",
+        "imageAlt" : "Retrieved from https://loudwire.com/motley-crue-career-timeline/",
+        "joke" : "You have neon-colored spandex with traces of cocaine all over them."
     },
     {
         "bandName" : "Motörhead",
@@ -951,7 +1071,13 @@
         "bandName" : "Mumford & Sons",
         "imageSource" : "images/mumford-sons.webp",
         "imageAlt" : "Retrieved from https://www.nme.com/news/music/mumford-and-sons-119-1248106",
-        "joke" : "For some reason, you got it into your mind that fast banjo playing means your music goes harder than thrash metal."
+        "joke" : "Just FYI, liking fast banjo picking does not make you quirky."
+    },
+    {
+        "bandName" : "Mushroomhead",
+        "imageSource" : "images/mushroomhead.webp",
+        "imageAlt" : "Retrieved from https://www.reddit.com/r/numetal/comments/1064v91/i_never_see_people_talk_about_them_on_this/",
+        "joke" : "Whenever Slipknot gets brought up, you feel the need to tell everyone that your band did the masks first.  Bro, we get it."
     },
     {
         "bandName" : "My Chemical Romance",
@@ -968,7 +1094,7 @@
     {
         "bandName" : "Napalm Death",
         "imageSource" : "images/napalm-death.webp",
-        "imageAlt" : "Retireved from https://www.decibelmagazine.com/2018/08/24/watch-napalm-deaths-shane-embury-perform-with-rap-group-gunshot-on-live-tv/",
+        "imageAlt" : "Retrieved from https://www.decibelmagazine.com/2018/08/24/watch-napalm-deaths-shane-embury-perform-with-rap-group-gunshot-on-live-tv/",
         "joke" : "You got super excited to see Jim Carrey try and imitate this band during an interview."
     },
     {
@@ -1011,7 +1137,7 @@
         "bandName" : "Oasis",
         "imageSource" : "images/oasis.webp",
         "imageAlt" : "Retrieved from https://www.pinterest.com/pin/740208888770496301/",
-        "joke" : "You hate half of the fanbase because they rooted for the wrong brother."
+        "joke" : "You hate half of the fanbase because they rooted for the wrong brother.  Anyways, here's Wonderwall."
     },
     {
         "bandName" : "Of Mice & Men",
@@ -1052,7 +1178,7 @@
     {
         "bandName" : "Our Last Night",
         "imageSource" : "images/our-last-night.webp",
-        "imageAlt" : "https://soundcloud.com/ourlastnight",
+        "imageAlt" : "Retrieved from https://soundcloud.com/ourlastnight",
         "joke" : "Let's be real, you just listen to this band so that you can listen to stuff on Walmart radio but also be edgy."
     },
     {
@@ -1090,6 +1216,12 @@
         "imageSource" : "images/pearl-jam.webp",
         "imageAlt" : "Retrieved from https://www.nme.com/news/music/pearl-jam-share-new-digital-mixes-of-ten-and-no-code-to-mark-landmark-anniversaries-3031231",
         "joke" : "You can't understand what he's saying, can you?"
+    },
+    {
+        "bandName" : "Periphery",
+        "imageSource" : "images/periphery.webp",
+        "imageAlt" : "Retrieved from https://www.therockpit.net/2020/periphery-announce-first-live-album-release-periphery-live-in-london/",
+        "joke" : "You are sexually attracted to guitars."
     },
     {
         "bandName" : "Pharrell Williams",
@@ -1178,7 +1310,7 @@
     {
         "bandName" : "Radiohead",
         "imageSource" : "images/radiohead.webp",
-        "imageAlt" : "Retreived from https://www.washington.edu/news/2009/05/07/british-group-radiohead-inspires-staffer-to-write/",
+        "imageAlt" : "Retrieved from https://www.washington.edu/news/2009/05/07/british-group-radiohead-inspires-staffer-to-write/",
         "joke" : "You're depressed."
     },
     {
@@ -1196,8 +1328,8 @@
     {
         "bandName" : "Rammstein",
         "imageSource" : "images/rammstein.webp",
-        "imageAlt" : "Retrieved from https://www.wegow.com/en-us/artists/rammstei",
-        "joke" : "You don't know German, but if you did, trust me, this would not be your favorite band."
+        "imageAlt" : "Retrieved from https://www.wegow.com/en-us/artists/rammstein",
+        "joke" : "You want so badly to be German."
     },
     {
         "bandName" : "Rebecca Black",
@@ -1210,6 +1342,12 @@
         "imageSource" : "images/rhcp.webp",
         "imageAlt" : "Retrieved from https://www.themiamihurricane.com/2022/04/08/back-at-it-again-six-years-later-red-hot-chili-peppers-drop-unlimited-love/",
         "joke" : "You hate wearing shirts."
+    },
+    {
+        "bandName" : "Reel Big Fish",
+        "imageSource" : "images/reel-big-fish.webp",
+        "imageAlt" : "Retrieved from https://open.spotify.com/artist/3bXhZFreBJF4QDUUiMmtZW",
+        "joke" : "You're maybe one of five people who still cares about ska punk in the modern age."
     },
     {
         "bandName" : "Rick Astley",
@@ -1282,6 +1420,12 @@
         "joke" : "Let's be honest, the reason you became interested in this band was because you saw their vocalist, Mizuho. Yeah, I don't blame you."
     },
     {
+        "bandName" : "Sepultura",
+        "imageSource" : "images/sepultura.webp",
+        "imageAlt" : "Retrieved from https://www.bandsintown.com/a/1641-sepultura",
+        "joke" : "Você tem certeza que pegaram o Big Four errado."
+    },
+    {
         "bandName" : "Sex Pistols",
         "imageSource" : "images/sex-pistols.webp",
         "imageAlt" : "Retrieved from https://www.iheart.com/artist/sex-pistols-31237/",
@@ -1303,7 +1447,7 @@
         "bandName" : "Simple Plan",
         "imageSource" : "images/simple-plan.webp",
         "imageAlt" : "Retrieved from https://americansongwriter.com/simple-plan-20-years-down-and-still-going-strong/",
-        "joke" : "You're one of those \"Disney adults.\""
+        "joke" : "You're one of THOSE \"Disney adults.\""
     },
     {
         "bandName" : "Six Feet Under",
@@ -1375,7 +1519,7 @@
         "bandName" : "Stone Sour",
         "imageSource" : "images/stone-sour.webp",
         "imageAlt" : "Retrieved from https://open.spotify.com/artist/49qiE8dj4JuNdpYGRPdKbF",
-        "joke" : "I'm guessing you're also a fan of Slipknot only because Corey and Jim are in both bands."
+        "joke" : "I'm guessing you're also a fan of Slipknot."
     },
     {
         "bandName" : "Stone Temple Pilots",
@@ -1400,6 +1544,12 @@
         "imageSource" : "images/sum-41.webp",
         "imageAlt" : "Retrieved from https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT",
         "joke" : "You're sick of your band being called a Blink-182 knockoff."
+    },
+    {
+        "bandName" : "Sunn O)))",
+        "imageSource" : "images/sunn_o.webp",
+        "imageAlt" : "Retrieved from https://sunnomerch.com/",
+        "joke" : "Okay, come on man.  Doom metal is fire and all, but this is just ridiculous!"
     },
     {
         "bandName" : "System of a Down",
@@ -1483,7 +1633,7 @@
         "bandName" : "Turnstile",
         "imageSource" : "images/turnstile.webp",
         "imageAlt" : "Retrieved from https://www.billboard.com/music/rock/turnstile-new-heart-design-video-fall-2022-tour-dates-1235104062/",
-        "joke" : "Bro, calm down. We already know your band exists."
+        "joke" : "Bro, calm down. We already know hardcore punk exists."
     },
     {
         "bandName" : "Twenty One Pilots",
@@ -1508,6 +1658,12 @@
         "imageSource" : "images/vanilla-ice.webp",
         "imageAlt" : "Retrieved from https://www.ticketmaster.com/vanilla-ice-tickets/artist/702531",
         "joke" : "Like Limp Bizkit fans but somehow worse."
+    },
+    {
+        "bandName" : "Velvet Revolver",
+        "imageSource" : "images/velvet_revolver.webp",
+        "imageAlt" : "Retrieved from https://open.spotify.com/artist/7CHilrn81OdYjkh4uSVnYM",
+        "joke" : "This is the music you play while riding your motorcycle to the methadone clinic."
     },
     {
         "bandName" : "Venom",
@@ -1550,6 +1706,12 @@
         "imageSource" : "images/whitechapel.webp",
         "imageAlt" : "Retrieved from https://www.metalblade.com/us/news/whitechapel-to-join-trivium-on-north-american-fall-tour/",
         "joke" : "You're one of maybe three or four people who decided to grow out of their scene/emo phase."
+    },
+    {
+        "bandName" : "The Who",
+        "imageSource" : "images/the_who.webp",
+        "imageAlt" : "Retrieved from https://www.artphotolimited.com/us-en/fine-art-photography/concert-and-music/rock-music/english-rock-music/the-who/photo/paris-match/british-rock-band-the-who-in-1965",
+        "joke" : "When you start a sentence with \"back in my way\", it's safe to assume that whatever is going to follow is going to be incredibly racist and/or misogynistic."
     },
     {
         "bandName" : "Wind Rose",
