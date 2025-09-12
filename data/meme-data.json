@@ -113,6 +113,10 @@
     "format": "image"
   },
   {
+    "memeFilename": "memes/gnrMeme.jpg",
+    "format": "image"
+  },
+  {
     "memeFilename": "memes/godsmackMeme_1.JPG",
     "format": "image"
   },
@@ -507,6 +511,10 @@
   },
   {
     "memeFilename": "memes/soad_v_greenDay.jpg",
+    "format": "image"
+  },
+  {
+    "memeFilename": "memes/thrashMeme.jpg",
     "format": "image"
   },
   {

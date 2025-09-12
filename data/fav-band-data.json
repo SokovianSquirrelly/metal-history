@@ -208,7 +208,7 @@
     "imageSource": "images/babymetal.webp",
     "imageAlt": "Retrieved from https://loudwire.com/babymetal-dolls-coming-soon/",
     "joke": [
-      "You're the kind of weeb that the internet warns us about.  Quit gooning so much!"
+      "You're the kind of weeb that the internet warns us about.  In other words, your hard drive needs to be investigated."
     ]
   },
   {
@@ -586,7 +586,17 @@
     "bandName": "Disturbed",
     "imageSource": "images/disturbed.webp",
     "imageAlt": "Retrieved from https://www.facebook.com/photo/?fbid=585219572975611&set=a.311900360307535",
-    "joke": ["You mastered that weird monkey scream."]
+    "joke": [
+      "For some unknown reason, autographing bombs to be used on civilians doesn't bother you at all."
+    ]
+  },
+  {
+    "bandName": "DJ Khaled",
+    "imageSource": "images/dj-khaled.webp",
+    "imageAlt": "Retrieved from https://www.deezer.com/us/artist/5828",
+    "joke": [
+      "This really shouldn't count as your \"favorite artist\".  All he does is yell his own name like a Pokémon"
+    ]
   },
   {
     "bandName": "The Doors",
@@ -790,7 +800,7 @@
     "imageSource": "images/gutalax.webp",
     "imageAlt": "Retrieved from https://www.party-san.de/en/banddetail/2019-gutalax",
     "joke": [
-      "I know this is low-hanging fruit, but it's just gotta be said...you like poop jokes."
+      "I know this is low-hanging fruit, but it's just gotta be said...you like poop jokes. And now I'm realizing that \"low-hanging fruit\" is a poor choice of words in this context."
     ]
   },
   {
@@ -832,6 +842,12 @@
     ]
   },
   {
+    "bandName": "Hatebreed",
+    "imageSource": "images/hatebreed.webp",
+    "imageAlt": "Retrieved from https://outburn.com/interviews/hatebreed-jamey-jasta/",
+    "joke": ["You spend a lot of time in the gym."]
+  },
+  {
     "bandName": "Heilung",
     "imageSource": "images/heilung.webp",
     "imageAlt": "Retrieved from https://www.season-of-mist.com/bands/heilung/",
@@ -858,6 +874,12 @@
     "joke": [
       "You've had the cops called on you multiple times.  Every single time it happens, it's after you've been yelling at your boyfriend in the 7-11 parking lot while wearing your Cookie Monster pajamas."
     ]
+  },
+  {
+    "bandName": "Hoobastank",
+    "imageSource": "images/hoobastank.webp",
+    "imageAlt": "Retrieved from https://open.spotify.com/artist/2MqhkhX4npxDZ62ObR5ELO",
+    "joke": ["Even you have to admit that their name is awful."]
   },
   {
     "bandName": "The Hu",
@@ -911,6 +933,14 @@
     "imageAlt": "Retrieved from https://archive.org/details/in-flames-live-at-hultsfred-festival-radio-17-06-2006",
     "joke": [
       "You're pretty pissed about their newer music, which makes sense.  For a band that heavily influenced melodic death metal, they don't seem to want to do that anymore."
+    ]
+  },
+  {
+    "bandName": "In This Moment",
+    "imageSource": "images/in-this-moment.webp",
+    "imageAlt": "Retrieved from https://aminoapps.com/c/metal/page/item/in-this-moment/o36T_oIDWWM5LZ87ZZrPR5Weqplm0R7",
+    "joke": [
+      "You claim that you're not just a fan of this band because of Maria.  But we all know the truth.  You don't have to lie to us."
     ]
   },
   {
@@ -1051,7 +1081,7 @@
     "bandName": "Katy Perry",
     "imageSource": "images/katy-perry.webp",
     "imageAlt": "Retrieved from https://nationaltoday.com/birthday/katy-perry/",
-    "joke": ["You've made a pact to never eat Wendy's again."]
+    "joke": ["Not even you can defend that astronaut stunt."]
   },
   {
     "bandName": "Kendrick Lamar",
@@ -1532,6 +1562,12 @@
     "joke": ["We do fun metal things here!"]
   },
   {
+    "bandName": "Nile",
+    "imageSource": "images/nile.webp",
+    "imageAlt": "Retrieved from https://open.spotify.com/artist/3v3VSKylQE69ztn5TUVlFE",
+    "joke": ["You're currently working on your PhD in Egyptology."]
+  },
+  {
     "bandName": "Nine Inch Nails",
     "imageSource": "images/nine-inch-nails.webp",
     "imageAlt": "Retrieved from https://angryyoungandpoor.com/store/pc/Nine-Inch-Nails-Band-Pic-Poster-573p335410.htm",
@@ -1647,6 +1683,12 @@
     "joke": [
       "What your parents thought was a phase was really just edgy depression."
     ]
+  },
+  {
+    "bandName": "P. Diddy",
+    "imageSource": "",
+    "imageAlt": "",
+    "joke": ["Imagine being a paid shill for a human trafficker."]
   },
   {
     "bandName": "Pantera",
@@ -2011,9 +2053,7 @@
     "bandName": "Sleeping With Sirens",
     "imageSource": "images/sleeping-with-sirens.webp",
     "imageAlt": "Retrieved from https://www.facebook.com/photo/?fbid=580826003409545&set=a.261768071982008",
-    "joke": [
-      "Not only are you still in your emo phase, but you're so far into it that your vision is entirely blocked by your hair."
-    ]
+    "joke": ["\"Guys, I swear, it's a man singing those lines!\""]
   },
   {
     "bandName": "Slipknot",
@@ -2034,6 +2074,14 @@
     "imageSource": "images/snoop-dogg.webp",
     "imageAlt": "Retrieved from https://mobile.twitter.com/snoopdogg",
     "joke": ["You base your entire personality around marijuana."]
+  },
+  {
+    "bandName": "Staind",
+    "imageSource": "",
+    "imageAlt": "",
+    "joke": [
+      "Political views aside, can we agree that Aaron's dead coyote stunt was a really bad look?"
+    ]
   },
   {
     "bandName": "Starset",
@@ -2304,6 +2352,14 @@
     "imageAlt": "Retrieved from https://www.artphotolimited.com/us-en/fine-art-photography/concert-and-music/rock-music/english-rock-music/the-who/photo/paris-match/british-rock-band-the-who-in-1965",
     "joke": [
       "When you start a sentence with \"back in my way\", it's safe to assume that whatever is going to follow is going to be incredibly racist and/or misogynistic."
+    ]
+  },
+  {
+    "bandName": "Will Smith",
+    "imageSource": "",
+    "imageAlt": "",
+    "joke": [
+      "Remember when he still had a good reputation?  Those were simpler times..."
     ]
   },
   {
