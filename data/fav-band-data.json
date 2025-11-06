@@ -472,7 +472,7 @@
     "imageSource": "images/chris-brown.webp",
     "imageAlt": "Retrieved from https://berkeleybside.com/what-happened-to-chris-brown/",
     "joke": [
-      "So...him beating Rihanna within an inch of her life doesn't phase you at all?  Like, why do you still support him?"
+      "No matter how many women he beats, you still have that unhealthy parasocial relationship with him."
     ]
   },
   {
@@ -525,6 +525,12 @@
       "*Bluey",
       " is your kids' favorite TV show...and yours as well.  Not to mention you relate a little too hard to Bandit."
     ]
+  },
+  {
+    "bandName": "Dark Insanity",
+    "imageSource": "images/dark-insanity.webp",
+    "imageAlt": "Retrieved from https://darkinsanitylb.bandcamp.com/track/the-order",
+    "joke": ["You're helping to create a life-sized Godzilla to invade Canada."]
   },
   {
     "bandName": "Daughtry",
@@ -718,7 +724,7 @@
     "imageAlt": "Retrieved from https://guitar.com/news/music-news/gel-breaks-up/",
     "joke": [
       "Whenever you feel like a screw-up, just remember that at least you didn't steal money from the band to pay for ",
-      "*OnlyFans."
+      "*OnlyFans", " subscriptions."
     ]
   },
   {
@@ -976,7 +982,7 @@
     "imageSource": "images/jason-aldean.webp",
     "imageAlt": "Retrieved from https://mobile.twitter.com/jason_aldean",
     "joke": [
-      "You're still obsessed with using \"Try That in a Small Town\" as evidence for...racism?"
+      "You're still obsessed with using \"Try That in a Small Town\" as an excuse to be racist."
     ]
   },
   {
@@ -1081,7 +1087,7 @@
     "bandName": "Katy Perry",
     "imageSource": "images/katy-perry.webp",
     "imageAlt": "Retrieved from https://nationaltoday.com/birthday/katy-perry/",
-    "joke": ["Not even you can defend that astronaut stunt."]
+    "joke": ["Not even you can defend her astronaut stunt."]
   },
   {
     "bandName": "Kendrick Lamar",
@@ -1238,7 +1244,7 @@
   {
     "bandName": "Lostprophets",
     "imageSource": "images/lostprophets.webp",
-    "imageAlt": "Retrieved from https://www.iheart.com/artist/lostprophets-89600/",
+    "imageAlt": "Retrieved from https://www.bbc.com/news/articles/c051nye9q9mo",
     "joke": ["Yikes!  Let's, uh, let's just skip this one."]
   },
   {
@@ -1438,7 +1444,7 @@
     "imageSource": "images/misfits.webp",
     "imageAlt": "Retrieved from https://sophiesfloorboard.blogspot.com/2016/10/the-misfits.html",
     "joke": [
-      "You love those old monster movies that your grandparents grew up with."
+      "You love those old campy monster movies that your grandparents grew up with."
     ]
   },
   {
@@ -1571,7 +1577,11 @@
     "bandName": "Nine Inch Nails",
     "imageSource": "images/nine-inch-nails.webp",
     "imageAlt": "Retrieved from https://angryyoungandpoor.com/store/pc/Nine-Inch-Nails-Band-Pic-Poster-573p335410.htm",
-    "joke": ["You're deceptively scary."]
+    "joke": [
+      "You only watched ",
+      "*Tron: Ares",
+      " for the admittedly very well-done soundtrack."
+    ]
   },
   {
     "bandName": "Ninja Sex Party",
@@ -1592,7 +1602,7 @@
     "imageSource": "images/oasis.webp",
     "imageAlt": "Retrieved from https://www.pinterest.com/pin/740208888770496301/",
     "joke": [
-      "You hate half of the fanbase because they rooted for the wrong brother.  Anyways, here's \"Wonderwall\"."
+      "We literally got Noah and Liam talking again before GTA 6.  Anyways, here's \"Wonderwall\"."
     ]
   },
   {
@@ -1686,8 +1696,8 @@
   },
   {
     "bandName": "P. Diddy",
-    "imageSource": "",
-    "imageAlt": "",
+    "imageSource": "images/diddy.webp",
+    "imageAlt": "Retrieved from https://www.reddit.com/r/pics/comments/1i8w4lh/diddys_only_known_mugshot_after_getting_arrested/",
     "joke": ["Imagine being a paid shill for a human trafficker."]
   },
   {
@@ -1743,7 +1753,7 @@
     "imageSource": "images/the-piano-guys.webp",
     "imageAlt": "Retrieved from https://www.youtube.com/user/thepianoguys/about",
     "joke": [
-      "You are a member of the Church of Jesus Christ of Latter-day Saints."
+      "You are a member of The Church of Jesus Christ of Latter-day Saints."
     ]
   },
   {
@@ -1790,7 +1800,7 @@
     "bandName": "Powerwolf",
     "imageSource": "images/powerwolf.webp",
     "imageAlt": "Retrieved from https://www.deezer.com/us/artist/428405",
-    "joke": ["You made ", "*Dungeons & Dragons", " into a career."]
+    "joke": ["You've inspired too much werewolf fetish art."]
   },
   {
     "bandName": "The Pretty Reckless",
@@ -2077,8 +2087,8 @@
   },
   {
     "bandName": "Staind",
-    "imageSource": "",
-    "imageAlt": "",
+    "imageSource": "images/staind.webp",
+    "imageAlt": "Retrieved from https://www.mmone.org/staind/",
     "joke": [
       "Political views aside, can we agree that Aaron's dead coyote stunt was a really bad look?"
     ]
@@ -2330,7 +2340,7 @@
     "bandName": "The White Stripes",
     "imageSource": "images/white-stripes.webp",
     "imageAlt": "Retrieved from https://www.whitestripes.com/",
-    "joke": ["Why do you think Jack White is the best guitarist of all time?"]
+    "joke": ["I'm sorry, but Jack White is not nearly as talented as you think he is."]
   },
   {
     "bandName": "White Zombie",
@@ -2356,8 +2366,8 @@
   },
   {
     "bandName": "Will Smith",
-    "imageSource": "",
-    "imageAlt": "",
+    "imageSource": "images/will-smith.webp",
+    "imageAlt": "Retrieved from https://www.vanityfair.com/hollywood/2022/12/will-smith-emancipation-premiere?srsltid=AfmBOorsH_nLLtiLXl5AxR-YLnnX5CHVe9Uwe5X-sqorsBPQVE4eA3A6",
     "joke": [
       "Remember when he still had a good reputation?  Those were simpler times..."
     ]
